@@ -1,0 +1,1132 @@
+index,Bowl,Date,Notes,points1,points2,team1,team2,stadiumlat,stadiumlng,team1lat,team1lng,team2lat,team2lng
+0,Cotton Bowl,1/1/1970,"Dallas, TX",21,17,Texas (1),Notre Dame (9),1,1,1,1,1,1
+1,Orange Bowl,1/1/1970,"Miami, FL",10,3,Penn State (2),Missouri (6),1,1,1,1,1,1
+2,Rose Bowl,1/1/1970,"Pasadena, CA",10,3,Southern California (5),Michigan (7),1,1,1,1,1,1
+3,Sugar Bowl,1/1/1970,"New Orleans, LA",27,22,Mississippi (13),Arkansas (3),1,1,1,1,1,1
+4,Bluebonnet Bowl,12/31/1969,"Houston, TX",36,7,Houston (17),Auburn (12),1,1,1,1,1,1
+5,Peach Bowl,12/30/1969,"Atlanta, GA",14,3,West Virginia (19),South Carolina,1,1,1,1,1,1
+6,Gator Bowl,12/27/1969,"Jacksonville, FL",14,13,Florida (15),Tennessee (11),1,1,1,1,1,1
+7,Tangerine Bowl,12/26/1969,"Orlando, FL",56,33,Toledo (20),Davidson,1,1,1,1,1,1
+8,Sun Bowl,12/20/1969,"El Paso, TX",45,6,Nebraska (14),Georgia,1,1,1,1,1,1
+9,Liberty Bowl,12/13/1969,"Memphis, TN",47,33,Colorado,Alabama,1,1,1,1,1,1
+10,Pasadena Bowl,12/6/1969,"Pasadena, CA",28,7,San Diego State,Boston University,1,1,1,1,1,1
+11,Gator Bowl,1/2/1971,"Jacksonville, FL",35,28,Auburn (10),Mississippi,1,1,1,1,1,1
+12,Cotton Bowl,1/1/1971,"Dallas, TX",24,11,Notre Dame (6),Texas (1),1,1,1,1,1,1
+13,Orange Bowl,1/1/1971,"Miami, FL",17,12,Nebraska (3),Louisiana State (5),1,1,1,1,1,1
+14,Rose Bowl,1/1/1971,"Pasadena, CA",27,17,Stanford (12),Ohio State (2),1,1,1,1,1,1
+15,Sugar Bowl,1/1/1971,"New Orleans, LA",34,13,Tennessee (4),Air Force (11),1,1,1,1,1,1
+16,Bluebonnet Bowl,12/31/1970,"Houston, TX",24,24,Oklahoma (20),Alabama,1,1,1,1,1,1
+17,Peach Bowl,12/30/1970,"Atlanta, GA",48,26,Arizona State (8),North Carolina,1,1,1,1,1,1
+18,Tangerine Bowl,12/28/1970,"Orlando, FL",40,12,Toledo (15),William & Mary,1,1,1,1,1,1
+19,Pasadena Bowl,12/19/1970,"Pasadena, CA",24,24,Louisville,Long Beach State,1,1,1,1,1,1
+20,Sun Bowl,12/19/1970,"El Paso, TX",17,9,Georgia Tech (13),Texas Tech (19),1,1,1,1,1,1
+21,Liberty Bowl,12/12/1970,"Memphis, TN",17,3,Tulane,Colorado,1,1,1,1,1,1
+22,Cotton Bowl,1/1/1972,"Dallas, TX",30,6,Penn State (10),Texas (12),1,1,1,1,1,1
+23,Orange Bowl,1/1/1972,"Miami, FL",38,6,Nebraska (1),Alabama (2),1,1,1,1,1,1
+24,Rose Bowl,1/1/1972,"Pasadena, CA",13,12,Stanford (16),Michigan (4),1,1,1,1,1,1
+25,Sugar Bowl,1/1/1972,"New Orleans, LA",40,22,Oklahoma (3),Auburn (5),1,1,1,1,1,1
+26,Bluebonnet Bowl,12/31/1971,"Houston, TX",29,17,Colorado (7),Houston (15),1,1,1,1,1,1
+27,Gator Bowl,12/31/1971,"Jacksonville, FL",7,3,Georgia (6),North Carolina,1,1,1,1,1,1
+28,Peach Bowl,12/30/1971,"Atlanta, GA",41,18,Mississippi (17),Georgia Tech,1,1,1,1,1,1
+29,Tangerine Bowl,12/28/1971,"Orlando, FL",28,3,Toledo (14),Richmond,1,1,1,1,1,1
+30,Fiesta Bowl,12/27/1971,"Tempe, AZ",45,38,Arizona State (8),Florida State,1,1,1,1,1,1
+31,Liberty Bowl,12/20/1971,"Memphis, TN",14,13,Tennessee (9),Arkansas (18),1,1,1,1,1,1
+32,Pasadena Bowl,12/18/1971,"Pasadena, CA",28,9,Memphis,San Jose State,1,1,1,1,1,1
+33,Sun Bowl,12/18/1971,"El Paso, TX",33,15,Louisiana State (11),Iowa State,1,1,1,1,1,1
+34,Cotton Bowl,1/1/1973,"Dallas, TX",17,13,Texas (7),Alabama (4),1,1,1,1,1,1
+35,Orange Bowl,1/1/1973,"Miami, FL",40,6,Nebraska (9),Notre Dame (12),1,1,1,1,1,1
+36,Rose Bowl,1/1/1973,"Pasadena, CA",42,17,Southern California (1),Ohio State (3),1,1,1,1,1,1
+37,Sugar Bowl,12/31/1972,"New Orleans, LA",14,0,Oklahoma (2),Penn State (5),1,1,1,1,1,1
+38,Bluebonnet Bowl,12/30/1972,"Houston, TX",24,17,Tennessee (11),Louisiana State (10),1,1,1,1,1,1
+39,Gator Bowl,12/30/1972,"Jacksonville, FL",24,3,Auburn (6),Colorado (13),1,1,1,1,1,1
+40,Sun Bowl,12/30/1972,"El Paso, TX",32,28,North Carolina (16),Texas Tech,1,1,1,1,1,1
+41,Peach Bowl,12/29/1972,"Atlanta, GA",49,13,North Carolina State,West Virginia (18),1,1,1,1,1,1
+42,Tangerine Bowl,12/29/1972,"Orlando, FL",21,18,Tampa,Kent State,1,1,1,1,1,1
+43,Fiesta Bowl,12/23/1972,"Tempe, AZ",49,35,Arizona State (15),Missouri,1,1,1,1,1,1
+44,Liberty Bowl,12/18/1972,"Memphis, TN",31,30,Georgia Tech,Iowa State,1,1,1,1,1,1
+45,Cotton Bowl,1/1/1974,"Dallas, TX",19,3,Nebraska (12),Texas (8),1,1,1,1,1,1
+46,Orange Bowl,1/1/1974,"Miami, FL",16,9,Penn State (6),Louisiana State (13),1,1,1,1,1,1
+47,Rose Bowl,1/1/1974,"Pasadena, CA",42,21,Ohio State (4),Southern California (7),1,1,1,1,1,1
+48,Sugar Bowl,12/31/1973,"New Orleans, LA",24,23,Notre Dame (3),Alabama (1),1,1,1,1,1,1
+49,Bluebonnet Bowl,12/29/1973,"Houston, TX",47,7,Houston (14),Tulane (17),1,1,1,1,1,1
+50,Gator Bowl,12/29/1973,"Jacksonville, FL",28,19,Texas Tech (11),Tennessee (20),1,1,1,1,1,1
+51,Sun Bowl,12/29/1973,"El Paso, TX",34,17,Missouri,Auburn,1,1,1,1,1,1
+52,Peach Bowl,12/28/1973,"Atlanta, GA",17,16,Georgia,Maryland (18),1,1,1,1,1,1
+53,Tangerine Bowl,12/22/1973,"Gainesville, FL",16,7,Miami (OH) (15),Florida,1,1,1,1,1,1
+54,Fiesta Bowl,12/21/1973,"Tempe, AZ",28,7,Arizona State (10),Pittsburgh,1,1,1,1,1,1
+55,Liberty Bowl,12/17/1973,"Memphis, TN",31,18,North Carolina State (16),Kansas (19),1,1,1,1,1,1
+56,Cotton Bowl,1/1/1975,"Dallas, TX",41,20,Penn State (7),Baylor (12),1,1,1,1,1,1
+57,Orange Bowl,1/1/1975,"Miami, FL",13,11,Notre Dame (9),Alabama (2),1,1,1,1,1,1
+58,Rose Bowl,1/1/1975,"Pasadena, CA",18,17,Southern California (5),Ohio State (3),1,1,1,1,1,1
+59,Sugar Bowl,12/31/1974,"New Orleans, LA",13,10,Nebraska (8),Florida (18),1,1,1,1,1,1
+60,Gator Bowl,12/30/1974,"Jacksonville, FL",27,3,Auburn (6),Texas (11),1,1,1,1,1,1
+61,Fiesta Bowl,12/28/1974,"Tempe, AZ",16,6,Oklahoma State,Brigham Young (17),1,1,1,1,1,1
+62,Peach Bowl,12/28/1974,"Atlanta, GA",6,6,Vanderbilt,Texas Tech,1,1,1,1,1,1
+63,Sun Bowl,12/28/1974,"El Paso, TX",26,24,Mississippi State,North Carolina,1,1,1,1,1,1
+64,Bluebonnet Bowl,12/23/1974,"Houston, TX",31,31,North Carolina State (13),Houston,1,1,1,1,1,1
+65,Tangerine Bowl,12/21/1974,"Orlando, FL",21,10,Miami (OH) (15),Georgia,1,1,1,1,1,1
+66,Liberty Bowl,12/16/1974,"Memphis, TN",7,3,Tennessee,Maryland (10),1,1,1,1,1,1
+67,Cotton Bowl,1/1/1976,"Dallas, TX",31,10,Arkansas (18),Georgia (12),1,1,1,1,1,1
+68,Orange Bowl,1/1/1976,"Miami, FL",14,6,Oklahoma (3),Michigan (5),1,1,1,1,1,1
+69,Rose Bowl,1/1/1976,"Pasadena, CA",23,10,UCLA (11),Ohio State (1),1,1,1,1,1,1
+70,Peach Bowl,12/31/1975,"Atlanta, GA",13,10,West Virginia,North Carolina State,1,1,1,1,1,1
+71,Sugar Bowl,12/31/1975,"New Orleans, LA",13,6,Alabama (4),Penn State (8),1,1,1,1,1,1
+72,Gator Bowl,12/29/1975,"Jacksonville, FL",13,0,Maryland (17),Florida (13),1,1,1,1,1,1
+73,Bluebonnet Bowl,12/27/1975,"Houston, TX",38,21,Texas (9),Colorado (10),1,1,1,1,1,1
+74,Fiesta Bowl,12/26/1975,"Tempe, AZ",17,14,Arizona State (7),Nebraska (6),1,1,1,1,1,1
+75,Sun Bowl,12/26/1975,"El Paso, TX",33,19,Pittsburgh (20),Kansas (19),1,1,1,1,1,1
+76,Liberty Bowl,12/22/1975,"Memphis, TN",20,0,Southern California,Texas A&M (2),1,1,1,1,1,1
+77,Tangerine Bowl,12/20/1975,"Orlando, FL",20,7,Miami (OH) (16),South Carolina,1,1,1,1,1,1
+78,Sun Bowl,1/2/1977,"El Paso, TX",37,14,Texas A&M (10),Florida,1,1,1,1,1,1
+79,Cotton Bowl,1/1/1977,"Dallas, TX",30,21,Houston (6),Maryland (4),1,1,1,1,1,1
+80,Orange Bowl,1/1/1977,"Miami, FL",27,10,Ohio State (11),Colorado (12),1,1,1,1,1,1
+81,Rose Bowl,1/1/1977,"Pasadena, CA",14,6,Southern California (3),Michigan (2),1,1,1,1,1,1
+82,Sugar Bowl,1/1/1977,"New Orleans, LA",27,3,Pittsburgh (1),Georgia (5),1,1,1,1,1,1
+83,Bluebonnet Bowl,12/31/1976,"Houston, TX",27,24,Nebraska (13),Texas Tech (9),1,1,1,1,1,1
+84,Peach Bowl,12/31/1976,"Atlanta, GA",21,0,Kentucky,North Carolina (19),1,1,1,1,1,1
+85,Gator Bowl,12/27/1976,"Jacksonville, FL",20,9,Notre Dame (15),Penn State (20),1,1,1,1,1,1
+86,Fiesta Bowl,12/25/1976,"Tempe, AZ",41,7,Oklahoma (8),Wyoming,1,1,1,1,1,1
+87,Liberty Bowl,12/20/1976,"Memphis, TN",36,6,Alabama (16),UCLA (7),1,1,1,1,1,1
+88,Tangerine Bowl,12/18/1976,"Orlando, FL",49,21,Oklahoma State (14),Brigham Young,1,1,1,1,1,1
+89,Independence Bowl,12/13/1976,"Shreveport, LA",20,16,McNeese State,Tulsa,1,1,1,1,1,1
+90,Cotton Bowl,1/2/1978,"Dallas, TX",38,10,Notre Dame (5),Texas (1),1,1,1,1,1,1
+91,Orange Bowl,1/2/1978,"Miami, FL",31,6,Arkansas (6),Oklahoma (2),1,1,1,1,1,1
+92,Rose Bowl,1/2/1978,"Pasadena, CA",27,20,Washington (13),Michigan (4),1,1,1,1,1,1
+93,Sugar Bowl,1/2/1978,"New Orleans, LA",35,6,Alabama (3),Ohio State (9),1,1,1,1,1,1
+94,Bluebonnet Bowl,12/31/1977,"Houston, TX",47,28,Southern California (20),Texas A&M (17),1,1,1,1,1,1
+95,Peach Bowl,12/31/1977,"Atlanta, GA",24,14,North Carolina State,Iowa State,1,1,1,1,1,1
+96,Sun Bowl,12/31/1977,"El Paso, TX",24,14,Stanford,Louisiana State,1,1,1,1,1,1
+97,Gator Bowl,12/30/1977,"Jacksonville, FL",34,3,Pittsburgh (10),Clemson (11),1,1,1,1,1,1
+98,Fiesta Bowl,12/25/1977,"Tempe, AZ",42,30,Penn State (8),Arizona State (15),1,1,1,1,1,1
+99,Tangerine Bowl,12/23/1977,"Orlando, FL",40,17,Florida State (19),Texas Tech,1,1,1,1,1,1
+100,Hall of Fame Classic,12/22/1977,"Birmingham, AL",17,7,Maryland,Minnesota,1,1,1,1,1,1
+101,Liberty Bowl,12/19/1977,"Memphis, TN",21,17,Nebraska (12),North Carolina (14),1,1,1,1,1,1
+102,Independence Bowl,12/17/1977,"Shreveport, LA",24,14,Louisiana Tech,Louisville,1,1,1,1,1,1
+103,Cotton Bowl,1/1/1979,"Dallas, TX",35,34,Notre Dame (10),Houston (9),1,1,1,1,1,1
+104,Orange Bowl,1/1/1979,"Miami, FL",31,24,Oklahoma (4),Nebraska (6),1,1,1,1,1,1
+105,Rose Bowl,1/1/1979,"Pasadena, CA",17,10,Southern California (3),Michigan (5),1,1,1,1,1,1
+106,Sugar Bowl,1/1/1979,"New Orleans, LA",14,7,Alabama (2),Penn State (1),1,1,1,1,1,1
+107,Bluebonnet Bowl,12/31/1978,"Houston, TX",25,22,Stanford,Georgia (11),1,1,1,1,1,1
+108,Gator Bowl,12/29/1978,"Jacksonville, FL",17,15,Clemson (7),Ohio State (20),1,1,1,1,1,1
+109,Fiesta Bowl,12/25/1978,"Tempe, AZ",10,10,UCLA (15),Arkansas (8),1,1,1,1,1,1
+110,Peach Bowl,12/25/1978,"Atlanta, GA",41,21,Purdue (17),Georgia Tech,1,1,1,1,1,1
+111,Liberty Bowl,12/23/1978,"Memphis, TN",20,15,Missouri (18),Louisiana State,1,1,1,1,1,1
+112,Sun Bowl,12/23/1978,"El Paso, TX",42,0,Texas (14),Maryland (13),1,1,1,1,1,1
+113,Tangerine Bowl,12/23/1978,"Orlando, FL",30,17,North Carolina State,Pittsburgh (16),1,1,1,1,1,1
+114,Holiday Bowl,12/22/1978,"San Diego, CA",23,16,Navy,Brigham Young,1,1,1,1,1,1
+115,Hall of Fame Classic,12/20/1978,"Birmingham, AL",28,12,Texas A&M,Iowa State (19),1,1,1,1,1,1
+116,Garden State Bowl,12/16/1978,"East Rutherford, NJ",34,18,Arizona State,Rutgers,1,1,1,1,1,1
+117,Independence Bowl,12/16/1978,"Shreveport, LA",35,13,East Carolina,Louisiana Tech,1,1,1,1,1,1
+118,Cotton Bowl,1/1/1980,"Dallas, TX",17,14,Houston (8),Nebraska (7),1,1,1,1,1,1
+119,Orange Bowl,1/1/1980,"Miami, FL",24,7,Oklahoma (5),Florida State (4),1,1,1,1,1,1
+120,Rose Bowl,1/1/1980,"Pasadena, CA",17,16,Southern California (3),Ohio State (1),1,1,1,1,1,1
+121,Sugar Bowl,1/1/1980,"New Orleans, LA",24,9,Alabama (2),Arkansas (6),1,1,1,1,1,1
+122,Bluebonnet Bowl,12/31/1979,"Houston, TX",27,22,Purdue (12),Tennessee,1,1,1,1,1,1
+123,Peach Bowl,12/31/1979,"Atlanta, GA",24,18,Baylor (19),Clemson (18),1,1,1,1,1,1
+124,Hall of Fame Classic,12/29/1979,"Birmingham, AL",24,14,Missouri,South Carolina (16),1,1,1,1,1,1
+125,Gator Bowl,12/28/1979,"Jacksonville, FL",17,15,North Carolina,Michigan (14),1,1,1,1,1,1
+126,Fiesta Bowl,12/25/1979,"Tempe, AZ",16,10,Pittsburgh (10),Arizona,1,1,1,1,1,1
+127,Liberty Bowl,12/22/1979,"Memphis, TN",9,6,Penn State,Tulane (15),1,1,1,1,1,1
+128,Sun Bowl,12/22/1979,"El Paso, TX",14,7,Washington (13),Texas (11),1,1,1,1,1,1
+129,Tangerine Bowl,12/22/1979,"Orlando, FL",34,10,Louisiana State,Wake Forest,1,1,1,1,1,1
+130,Holiday Bowl,12/21/1979,"San Diego, CA",38,37,Indiana,Brigham Young (9),1,1,1,1,1,1
+131,Garden State Bowl,12/15/1979,"East Rutherford, NJ",28,17,Temple (20),California,1,1,1,1,1,1
+132,Independence Bowl,12/15/1979,"Shreveport, LA",31,7,Syracuse,McNeese State,1,1,1,1,1,1
+133,Peach Bowl,1/2/1981,"Atlanta, GA",20,10,Miami (FL) (20),Virginia Tech,1,1,1,1,1,1
+134,Cotton Bowl,1/1/1981,"Dallas, TX",30,2,Alabama (9),Baylor (6),1,1,1,1,1,1
+135,Orange Bowl,1/1/1981,"Miami, FL",18,17,Oklahoma (4),Florida State (2),1,1,1,1,1,1
+136,Rose Bowl,1/1/1981,"Pasadena, CA",23,6,Michigan (5),Washington (16),1,1,1,1,1,1
+137,Sugar Bowl,1/1/1981,"New Orleans, LA",17,10,Georgia (1),Notre Dame (7),1,1,1,1,1,1
+138,Bluebonnet Bowl,12/31/1980,"Houston, TX",16,7,North Carolina (13),Texas,1,1,1,1,1,1
+139,Gator Bowl,12/29/1980,"Jacksonville, FL",37,9,Pittsburgh (3),South Carolina (18),1,1,1,1,1,1
+140,Hall of Fame Classic,12/27/1980,"Birmingham, AL",34,15,Arkansas,Tulane,1,1,1,1,1,1
+141,Liberty Bowl,12/27/1980,"Memphis, TN",28,25,Purdue,Missouri,1,1,1,1,1,1
+142,Sun Bowl,12/27/1980,"El Paso, TX",31,17,Nebraska (8),Mississippi State (17),1,1,1,1,1,1
+143,Fiesta Bowl,12/26/1980,"Tempe, AZ",31,19,Penn State (10),Ohio State (11),1,1,1,1,1,1
+144,Tangerine Bowl,12/20/1980,"Orlando, FL",35,20,Florida,Maryland,1,1,1,1,1,1
+145,Holiday Bowl,12/19/1980,"San Diego, CA",46,45,Brigham Young (14),Southern Methodist (19),1,1,1,1,1,1
+146,Garden State Bowl,12/14/1980,"East Rutherford, NJ",35,0,Houston,Navy,1,1,1,1,1,1
+147,Independence Bowl,12/13/1980,"Shreveport, LA",16,14,Southern Mississippi,McNeese State,1,1,1,1,1,1
+148,Cotton Bowl,1/1/1982,"Dallas, TX",14,12,Texas (6),Alabama (3),1,1,1,1,1,1
+149,Fiesta Bowl,1/1/1982,"Tempe, AZ",26,10,Penn State (7),Southern California (8),1,1,1,1,1,1
+150,Orange Bowl,1/1/1982,"Miami, FL",22,15,Clemson (1),Nebraska (4),1,1,1,1,1,1
+151,Rose Bowl,1/1/1982,"Pasadena, CA",28,0,Washington (12),Iowa (13),1,1,1,1,1,1
+152,Sugar Bowl,1/1/1982,"New Orleans, LA",24,20,Pittsburgh (10),Georgia (2),1,1,1,1,1,1
+153,Bluebonnet Bowl,12/31/1981,"Houston, TX",33,14,Michigan (16),UCLA (19),1,1,1,1,1,1
+154,Hall of Fame Classic,12/31/1981,"Birmingham, AL",10,0,Mississippi State,Kansas,1,1,1,1,1,1
+155,Peach Bowl,12/31/1981,"Atlanta, GA",26,6,West Virginia,Florida,1,1,1,1,1,1
+156,Liberty Bowl,12/30/1981,"Memphis, TN",31,28,Ohio State (15),Navy,1,1,1,1,1,1
+157,Gator Bowl,12/28/1981,"Jacksonville, FL",31,27,North Carolina (11),Arkansas,1,1,1,1,1,1
+158,Sun Bowl,12/26/1981,"El Paso, TX",40,14,Oklahoma,Houston,1,1,1,1,1,1
+159,California Bowl,12/19/1981,"Fresno, CA",27,25,Toledo,San Jose State,1,1,1,1,1,1
+160,Tangerine Bowl,12/19/1981,"Orlando, FL",19,17,Missouri,Southern Mississippi (18),1,1,1,1,1,1
+161,Holiday Bowl,12/18/1981,"San Diego, CA",38,36,Brigham Young (14),Washington State (20),1,1,1,1,1,1
+162,Garden State Bowl,12/13/1981,"East Rutherford, NJ",28,21,Tennessee,Wisconsin,1,1,1,1,1,1
+163,Independence Bowl,12/12/1981,"Shreveport, LA",33,16,Texas A&M,Oklahoma State,1,1,1,1,1,1
+164,Cotton Bowl,1/1/1983,"Dallas, TX",7,3,Southern Methodist (4),Pittsburgh (6),1,1,1,1,1,1
+165,Fiesta Bowl,1/1/1983,"Tempe, AZ",32,21,Arizona State (11),Oklahoma (12),1,1,1,1,1,1
+166,Orange Bowl,1/1/1983,"Miami, FL",21,20,Nebraska (3),Louisiana State (13),1,1,1,1,1,1
+167,Rose Bowl,1/1/1983,"Pasadena, CA",24,14,UCLA (5),Michigan (19),1,1,1,1,1,1
+168,Sugar Bowl,1/1/1983,"New Orleans, LA",27,23,Penn State (2),Georgia (1),1,1,1,1,1,1
+169,Bluebonnet Bowl,12/31/1982,"Houston, TX",28,24,Arkansas (14),Florida,1,1,1,1,1,1
+170,Hall of Fame Classic,12/31/1982,"Birmingham, AL",36,28,Air Force,Vanderbilt,1,1,1,1,1,1
+171,Peach Bowl,12/31/1982,"Atlanta, GA",28,22,Iowa,Tennessee,1,1,1,1,1,1
+172,Gator Bowl,12/30/1982,"Jacksonville, FL",31,12,Florida State,West Virginia (10),1,1,1,1,1,1
+173,Liberty Bowl,12/29/1982,"Memphis, TN",21,15,Alabama,Illinois,1,1,1,1,1,1
+174,Aloha Bowl,12/25/1982,"Honolulu, HI",21,20,Washington (9),Maryland (16),1,1,1,1,1,1
+175,Sun Bowl,12/25/1982,"El Paso, TX",26,10,North Carolina,Texas (8),1,1,1,1,1,1
+176,California Bowl,12/18/1982,"Fresno, CA",29,28,Fresno State,Bowling Green State,1,1,1,1,1,1
+177,Tangerine Bowl,12/18/1982,"Orlando, FL",33,26,Auburn (18),Boston College,1,1,1,1,1,1
+178,Holiday Bowl,12/17/1982,"San Diego, CA",47,17,Ohio State (17),Brigham Young,1,1,1,1,1,1
+179,Independence Bowl,12/11/1982,"Shreveport, LA",14,3,Wisconsin,Kansas State,1,1,1,1,1,1
+180,Cotton Bowl,1/2/1984,"Dallas, TX",10,9,Georgia (7),Texas (2),1,1,1,1,1,1
+181,Fiesta Bowl,1/2/1984,"Tempe, AZ",28,23,Ohio State (14),Pittsburgh (15),1,1,1,1,1,1
+182,Orange Bowl,1/2/1984,"Miami, FL",31,30,Miami (FL) (5),Nebraska (1),1,1,1,1,1,1
+183,Rose Bowl,1/2/1984,"Pasadena, CA",45,9,UCLA,Illinois (4),1,1,1,1,1,1
+184,Sugar Bowl,1/2/1984,"New Orleans, LA",9,7,Auburn (3),Michigan (8),1,1,1,1,1,1
+185,Bluebonnet Bowl,12/31/1983,"Houston, TX",24,14,Oklahoma State,Baylor (20),1,1,1,1,1,1
+186,Gator Bowl,12/30/1983,"Jacksonville, FL",14,6,Florida (11),Iowa (10),1,1,1,1,1,1
+187,Peach Bowl,12/30/1983,"Atlanta, GA",28,3,Florida State,North Carolina,1,1,1,1,1,1
+188,Liberty Bowl,12/29/1983,"Memphis, TN",19,18,Notre Dame,Boston College (13),1,1,1,1,1,1
+189,Aloha Bowl,12/26/1983,"Honolulu, HI",13,10,Penn State,Washington,1,1,1,1,1,1
+190,Sun Bowl,12/24/1983,"El Paso, TX",28,7,Alabama,Southern Methodist (6),1,1,1,1,1,1
+191,Holiday Bowl,12/23/1983,"San Diego, CA",21,17,Brigham Young (9),Missouri,1,1,1,1,1,1
+192,Hall of Fame Classic,12/22/1983,"Birmingham, AL",20,16,West Virginia (18),Kentucky,1,1,1,1,1,1
+193,California Bowl,12/17/1983,"Fresno, CA",20,13,Northern Illinois,Cal State Fullerton,1,1,1,1,1,1
+194,Citrus Bowl,12/17/1983,"Orlando, FL",30,23,Tennessee,Maryland (16),1,1,1,1,1,1
+195,Independence Bowl,12/10/1983,"Shreveport, LA",9,3,Air Force (16),Mississippi,1,1,1,1,1,1
+196,Cotton Bowl,1/1/1985,"Dallas, TX",45,28,Boston College (8),Houston,1,1,1,1,1,1
+197,Fiesta Bowl,1/1/1985,"Tempe, AZ",39,37,UCLA (14),Miami (FL) (13),1,1,1,1,1,1
+198,Orange Bowl,1/1/1985,"Miami, FL",28,17,Washington (4),Oklahoma (2),1,1,1,1,1,1
+199,Rose Bowl,1/1/1985,"Pasadena, CA",20,17,Southern California (18),Ohio State (6),1,1,1,1,1,1
+200,Sugar Bowl,1/1/1985,"New Orleans, LA",28,10,Nebraska (5),Louisiana State (11),1,1,1,1,1,1
+201,Bluebonnet Bowl,12/31/1984,"Houston, TX",31,14,West Virginia,Texas Christian,1,1,1,1,1,1
+202,Peach Bowl,12/31/1984,"Atlanta, GA",27,24,Virginia,Purdue,1,1,1,1,1,1
+203,Aloha Bowl,12/29/1984,"Honolulu, HI",27,20,Southern Methodist (10),Notre Dame (17),1,1,1,1,1,1
+204,Hall of Fame Classic,12/29/1984,"Birmingham, AL",20,19,Kentucky,Wisconsin (20),1,1,1,1,1,1
+205,Gator Bowl,12/28/1984,"Jacksonville, FL",21,14,Oklahoma State (9),South Carolina (7),1,1,1,1,1,1
+206,Liberty Bowl,12/27/1984,"Memphis, TN",21,15,Auburn (16),Arkansas,1,1,1,1,1,1
+207,Freedom Bowl,12/26/1984,"Anaheim, CA",55,17,Iowa,Texas (19),1,1,1,1,1,1
+208,Cherry Bowl,12/22/1984,"Pontiac, MI",10,6,Army,Michigan State,1,1,1,1,1,1
+209,Citrus Bowl,12/22/1984,"Orlando, FL",17,17,Georgia,Florida State (15),1,1,1,1,1,1
+210,Sun Bowl,12/22/1984,"El Paso, TX",28,27,Maryland (12),Tennessee,1,1,1,1,1,1
+211,Holiday Bowl,12/21/1984,"San Diego, CA",24,17,Brigham Young (1),Michigan,1,1,1,1,1,1
+212,California Bowl,12/15/1984,"Fresno, CA",30,13,Nevada-Las Vegas,Toledo,1,1,1,1,1,1
+213,Independence Bowl,12/15/1984,"Shreveport, LA",23,7,Air Force,Virginia Tech,1,1,1,1,1,1
+214,Cotton Bowl,1/1/1986,"Dallas, TX",36,16,Texas A&M (11),Auburn (16),1,1,1,1,1,1
+215,Fiesta Bowl,1/1/1986,"Tempe, AZ",27,23,Michigan (5),Nebraska (7),1,1,1,1,1,1
+216,Orange Bowl,1/1/1986,"Miami, FL",25,10,Oklahoma (3),Penn State (1),1,1,1,1,1,1
+217,Rose Bowl,1/1/1986,"Pasadena, CA",45,28,UCLA (13),Iowa (4),1,1,1,1,1,1
+218,Sugar Bowl,1/1/1986,"New Orleans, LA",35,7,Tennessee (8),Miami (FL) (2),1,1,1,1,1,1
+219,Bluebonnet Bowl,12/31/1985,"Houston, TX",24,16,Air Force (10),Texas,1,1,1,1,1,1
+220,Hall of Fame Classic,12/31/1985,"Birmingham, AL",17,14,Georgia Tech,Michigan State,1,1,1,1,1,1
+221,Peach Bowl,12/31/1985,"Atlanta, GA",31,29,Army,Illinois,1,1,1,1,1,1
+222,Freedom Bowl,12/30/1985,"Anaheim, CA",20,17,Washington,Colorado,1,1,1,1,1,1
+223,Gator Bowl,12/30/1985,"Jacksonville, FL",34,23,Florida State (18),Oklahoma State (19),1,1,1,1,1,1
+224,Aloha Bowl,12/28/1985,"Honolulu, HI",24,3,Alabama (15),Southern California,1,1,1,1,1,1
+225,Citrus Bowl,12/28/1985,"Orlando, FL",10,7,Ohio State (17),Brigham Young (9),1,1,1,1,1,1
+226,Sun Bowl,12/28/1985,"El Paso, TX",13,13,Georgia,Arizona,1,1,1,1,1,1
+227,Liberty Bowl,12/27/1985,"Memphis, TN",21,7,Baylor,Louisiana State (12),1,1,1,1,1,1
+228,Holiday Bowl,12/22/1985,"San Diego, CA",18,17,Arkansas (14),Arizona State,1,1,1,1,1,1
+229,Cherry Bowl,12/21/1985,"Pontiac, MI",35,18,Maryland (20),Syracuse,1,1,1,1,1,1
+230,Independence Bowl,12/21/1985,"Shreveport, LA",20,13,Minnesota,Clemson,1,1,1,1,1,1
+231,California Bowl,12/14/1985,"Fresno, CA",51,7,Fresno State,Bowling Green State (20),1,1,1,1,1,1
+232,Fiesta Bowl,1/2/1987,"Tempe, AZ",14,10,Penn State (2),Miami (FL) (1),1,1,1,1,1,1
+233,Citrus Bowl,1/1/1987,"Orlando, FL",16,7,Auburn (10),Southern California,1,1,1,1,1,1
+234,Cotton Bowl,1/1/1987,"Dallas, TX",28,12,Ohio State (11),Texas A&M (8),1,1,1,1,1,1
+235,Orange Bowl,1/1/1987,"Miami, FL",42,8,Oklahoma (3),Arkansas (9),1,1,1,1,1,1
+236,Rose Bowl,1/1/1987,"Pasadena, CA",22,15,Arizona State (7),Michigan (4),1,1,1,1,1,1
+237,Sugar Bowl,1/1/1987,"New Orleans, LA",30,15,Nebraska (6),Louisiana State (5),1,1,1,1,1,1
+238,All-American Bowl,12/31/1986,"Birmingham, AL",27,13,Florida State,Indiana,1,1,1,1,1,1
+239,Bluebonnet Bowl,12/31/1986,"Houston, TX",21,9,Baylor (14),Colorado,1,1,1,1,1,1
+240,Peach Bowl,12/31/1986,"Atlanta, GA",25,24,Virginia Tech,North Carolina State (18),1,1,1,1,1,1
+241,Freedom Bowl,12/30/1986,"Anaheim, CA",31,10,UCLA (15),Brigham Young,1,1,1,1,1,1
+242,Holiday Bowl,12/30/1986,"San Diego, CA",39,38,Iowa (19),San Diego State,1,1,1,1,1,1
+243,Liberty Bowl,12/29/1986,"Memphis, TN",21,14,Tennessee,Minnesota,1,1,1,1,1,1
+244,Aloha Bowl,12/27/1986,"Honolulu, HI",30,21,Arizona (16),North Carolina,1,1,1,1,1,1
+245,Gator Bowl,12/27/1986,"Jacksonville, FL",27,21,Clemson,Stanford (20),1,1,1,1,1,1
+246,Sun Bowl,12/25/1986,"El Paso, TX",28,6,Alabama (13),Washington (12),1,1,1,1,1,1
+247,Hall of Fame Bowl,12/23/1986,"Tampa, FL",27,24,Boston College,Georgia (17),1,1,1,1,1,1
+248,Independence Bowl,12/20/1986,"Shreveport, LA",20,17,Mississippi,Texas Tech,1,1,1,1,1,1
+249,California Bowl,12/13/1986,"Fresno, CA",37,7,San Jose State,Miami (OH),1,1,1,1,1,1
+250,Hall of Fame Bowl,1/2/1988,"Tampa, FL",28,24,Michigan,Alabama,1,1,1,1,1,1
+251,Peach Bowl,1/2/1988,"Atlanta, GA",27,22,Tennessee (17),Indiana,1,1,1,1,1,1
+252,Citrus Bowl,1/1/1988,"Orlando, FL",35,10,Clemson (14),Penn State (20),1,1,1,1,1,1
+253,Cotton Bowl,1/1/1988,"Dallas, TX",35,10,Texas A&M (13),Notre Dame (12),1,1,1,1,1,1
+254,Fiesta Bowl,1/1/1988,"Tempe, AZ",31,28,Florida State (3),Nebraska (5),1,1,1,1,1,1
+255,Orange Bowl,1/1/1988,"Miami, FL",20,14,Miami (FL) (2),Oklahoma (1),1,1,1,1,1,1
+256,Rose Bowl,1/1/1988,"Pasadena, CA",20,17,Michigan State (8),Southern California (16),1,1,1,1,1,1
+257,Sugar Bowl,1/1/1988,"New Orleans, LA",16,16,Syracuse (4),Auburn (6),1,1,1,1,1,1
+258,Bluebonnet Bowl,12/31/1987,"Houston, TX",32,27,Texas,Pittsburgh (19),1,1,1,1,1,1
+259,Gator Bowl,12/31/1987,"Jacksonville, FL",30,13,Louisiana State (7),South Carolina (9),1,1,1,1,1,1
+260,Freedom Bowl,12/30/1987,"Anaheim, CA",33,28,Arizona State,Air Force,1,1,1,1,1,1
+261,Holiday Bowl,12/30/1987,"San Diego, CA",20,19,Iowa (18),Wyoming,1,1,1,1,1,1
+262,Liberty Bowl,12/29/1987,"Memphis, TN",20,17,Georgia (15),Arkansas,1,1,1,1,1,1
+263,Aloha Bowl,12/25/1987,"Honolulu, HI",20,16,UCLA (10),Florida,1,1,1,1,1,1
+264,Sun Bowl,12/25/1987,"El Paso, TX",35,33,Oklahoma State (11),West Virginia,1,1,1,1,1,1
+265,All-American Bowl,12/22/1987,"Birmingham, AL",22,16,Virginia,Brigham Young,1,1,1,1,1,1
+266,Independence Bowl,12/19/1987,"Shreveport, LA",24,12,Washington,Tulane,1,1,1,1,1,1
+267,California Bowl,12/12/1987,"Fresno, CA",30,27,Eastern Michigan,San Jose State,1,1,1,1,1,1
+268,Citrus Bowl,1/2/1989,"Orlando, FL",13,6,Clemson (13),Oklahoma (10),1,1,1,1,1,1
+269,Cotton Bowl,1/2/1989,"Dallas, TX",17,3,UCLA (9),Arkansas (8),1,1,1,1,1,1
+270,Fiesta Bowl,1/2/1989,"Tempe, AZ",34,21,Notre Dame (1),West Virginia (3),1,1,1,1,1,1
+271,Hall of Fame Bowl,1/2/1989,"Tampa, FL",23,10,Syracuse (17),Louisiana State (16),1,1,1,1,1,1
+272,Orange Bowl,1/2/1989,"Miami, FL",23,3,Miami (FL) (2),Nebraska (6),1,1,1,1,1,1
+273,Rose Bowl,1/2/1989,"Pasadena, CA",22,14,Michigan (11),Southern California (5),1,1,1,1,1,1
+274,Sugar Bowl,1/2/1989,"New Orleans, LA",13,7,Florida State (4),Auburn (7),1,1,1,1,1,1
+275,Gator Bowl,1/1/1989,"Jacksonville, FL",34,27,Georgia (19),Michigan State,1,1,1,1,1,1
+276,Peach Bowl,12/31/1988,"Atlanta, GA",28,23,North Carolina State,Iowa,1,1,1,1,1,1
+277,Holiday Bowl,12/30/1988,"San Diego, CA",62,14,Oklahoma State (12),Wyoming (15),1,1,1,1,1,1
+278,All-American Bowl,12/29/1988,"Birmingham, AL",14,10,Florida,Illinois,1,1,1,1,1,1
+279,Freedom Bowl,12/29/1988,"Anaheim, CA",20,17,Brigham Young,Colorado,1,1,1,1,1,1
+280,Liberty Bowl,12/28/1988,"Memphis, TN",34,10,Indiana,South Carolina,1,1,1,1,1,1
+281,Aloha Bowl,12/25/1988,"Honolulu, HI",24,22,Washington State (18),Houston (14),1,1,1,1,1,1
+282,Sun Bowl,12/24/1988,"El Paso, TX",29,28,Alabama (20),Army,1,1,1,1,1,1
+283,Independence Bowl,12/23/1988,"Shreveport, LA",38,18,Southern Mississippi,Texas-El Paso,1,1,1,1,1,1
+284,California Bowl,12/10/1988,"Fresno, CA",35,30,Fresno State,Western Michigan,1,1,1,1,1,1
+285,Citrus Bowl,1/1/1990,"Orlando, FL",31,21,Illinois (11),Virginia (15),1,1,1,1,1,1
+286,Cotton Bowl,1/1/1990,"Dallas, TX",31,27,Tennessee (8),Arkansas (10),1,1,1,1,1,1
+287,Fiesta Bowl,1/1/1990,"Tempe, AZ",41,17,Florida State (5),Nebraska (6),1,1,1,1,1,1
+288,Hall of Fame Bowl,1/1/1990,"Tampa, FL",31,14,Auburn (9),Ohio State (21),1,1,1,1,1,1
+289,Orange Bowl,1/1/1990,"Miami, FL",21,6,Notre Dame (4),Colorado (1),1,1,1,1,1,1
+290,Rose Bowl,1/1/1990,"Pasadena, CA",17,10,Southern California (12),Michigan (3),1,1,1,1,1,1
+291,Sugar Bowl,1/1/1990,"New Orleans, LA",33,25,Miami (FL) (2),Alabama (7),1,1,1,1,1,1
+292,Copper Bowl,12/31/1989,"Tucson, AZ",17,10,Arizona,North Carolina State,1,1,1,1,1,1
+293,Freedom Bowl,12/30/1989,"Anaheim, CA",34,7,Washington,Florida,1,1,1,1,1,1
+294,Gator Bowl,12/30/1989,"Jacksonville, FL",27,7,Clemson (14),West Virginia (17),1,1,1,1,1,1
+295,Peach Bowl,12/30/1989,"Atlanta, GA",19,18,Syracuse,Georgia,1,1,1,1,1,1
+296,Sun Bowl,12/30/1989,"El Paso, TX",31,28,Pittsburgh (23),Texas A&M (16),1,1,1,1,1,1
+297,Holiday Bowl,12/29/1989,"San Diego, CA",50,39,Penn State (18),Brigham Young (19),1,1,1,1,1,1
+298,All-American Bowl,12/28/1989,"Birmingham, AL",49,21,Texas Tech (24),Duke (20),1,1,1,1,1,1
+299,Liberty Bowl,12/28/1989,"Memphis, TN",42,29,Mississippi,Air Force,1,1,1,1,1,1
+300,Aloha Bowl,12/25/1989,"Honolulu, HI",33,13,Michigan State (22),Hawaii (25),1,1,1,1,1,1
+301,Independence Bowl,12/16/1989,"Shreveport, LA",27,24,Oregon,Tulsa,1,1,1,1,1,1
+302,California Bowl,12/9/1989,"Fresno, CA",27,6,Fresno State,Ball State,1,1,1,1,1,1
+303,Citrus Bowl,1/1/1991,"Orlando, FL",45,21,Georgia Tech (2),Nebraska (19),1,1,1,1,1,1
+304,Cotton Bowl,1/1/1991,"Dallas, TX",46,3,Miami (FL) (4),Texas (3),1,1,1,1,1,1
+305,Fiesta Bowl,1/1/1991,"Tempe, AZ",34,7,Louisville (18),Alabama (25),1,1,1,1,1,1
+306,Gator Bowl,1/1/1991,"Jacksonville, FL",35,3,Michigan (12),Mississippi (15),1,1,1,1,1,1
+307,Hall of Fame Bowl,1/1/1991,"Tampa, FL",30,0,Clemson (14),Illinois (16),1,1,1,1,1,1
+308,Orange Bowl,1/1/1991,"Miami, FL",10,9,Colorado (1),Notre Dame (5),1,1,1,1,1,1
+309,Rose Bowl,1/1/1991,"Pasadena, CA",46,34,Washington (8),Iowa (17),1,1,1,1,1,1
+310,Sugar Bowl,1/1/1991,"New Orleans, LA",23,22,Tennessee (10),Virginia,1,1,1,1,1,1
+311,Copper Bowl,12/31/1990,"Tucson, AZ",17,15,California,Wyoming,1,1,1,1,1,1
+312,Sun Bowl,12/31/1990,"El Paso, TX",17,16,Michigan State (22),Southern California (21),1,1,1,1,1,1
+313,Freedom Bowl,12/29/1990,"Anaheim, CA",32,31,Colorado State,Oregon,1,1,1,1,1,1
+314,Holiday Bowl,12/29/1990,"San Diego, CA",65,14,Texas A&M,Brigham Young (13),1,1,1,1,1,1
+315,Peach Bowl,12/29/1990,"Atlanta, GA",27,23,Auburn,Indiana,1,1,1,1,1,1
+316,All-American Bowl,12/28/1990,"Birmingham, AL",31,27,North Carolina State,Southern Mississippi (23),1,1,1,1,1,1
+317,Blockbuster Bowl,12/28/1990,"Miami, FL",24,17,Florida State (6),Penn State (7),1,1,1,1,1,1
+318,Liberty Bowl,12/27/1990,"Memphis, TN",23,11,Air Force,Ohio State (24),1,1,1,1,1,1
+319,Aloha Bowl,12/25/1990,"Honolulu, HI",28,0,Syracuse,Arizona,1,1,1,1,1,1
+320,Independence Bowl,12/15/1990,"Shreveport, LA",34,34,Maryland,Louisiana Tech,1,1,1,1,1,1
+321,California Bowl,12/8/1990,"Fresno, CA",48,24,San Jose State,Central Michigan,1,1,1,1,1,1
+322,Citrus Bowl,1/1/1992,"Orlando, FL",37,13,California (14),Clemson (13),1,1,1,1,1,1
+323,Cotton Bowl,1/1/1992,"Dallas, TX",10,2,Florida State (5),Texas A&M (9),1,1,1,1,1,1
+324,Fiesta Bowl,1/1/1992,"Tempe, AZ",42,17,Penn State (6),Tennessee (10),1,1,1,1,1,1
+325,Hall of Fame Bowl,1/1/1992,"Tampa, FL",24,17,Syracuse (16),Ohio State (25),1,1,1,1,1,1
+326,Orange Bowl,1/1/1992,"Miami, FL",22,0,Miami (FL) (1),Nebraska (11),1,1,1,1,1,1
+327,Peach Bowl,1/1/1992,"Atlanta, GA",37,34,East Carolina (12),North Carolina State (21),1,1,1,1,1,1
+328,Rose Bowl,1/1/1992,"Pasadena, CA",34,14,Washington (2),Michigan (4),1,1,1,1,1,1
+329,Sugar Bowl,1/1/1992,"New Orleans, LA",39,28,Notre Dame (18),Florida (3),1,1,1,1,1,1
+330,Copper Bowl,12/31/1991,"Tucson, AZ",24,0,Indiana,Baylor,1,1,1,1,1,1
+331,Sun Bowl,12/31/1991,"El Paso, TX",6,3,UCLA (22),Illinois,1,1,1,1,1,1
+332,Freedom Bowl,12/30/1991,"Anaheim, CA",28,17,Tulsa (23),San Diego State,1,1,1,1,1,1
+333,Holiday Bowl,12/30/1991,"San Diego, CA",13,13,Iowa (7),Brigham Young,1,1,1,1,1,1
+334,Gator Bowl,12/29/1991,"Jacksonville, FL",48,14,Oklahoma (20),Virginia (19),1,1,1,1,1,1
+335,Independence Bowl,12/29/1991,"Shreveport, LA",24,15,Georgia (24),Arkansas,1,1,1,1,1,1
+336,Liberty Bowl,12/29/1991,"Memphis, TN",38,15,Air Force,Mississippi State,1,1,1,1,1,1
+337,Blockbuster Bowl,12/28/1991,"Miami, FL",30,25,Alabama (8),Colorado (15),1,1,1,1,1,1
+338,Aloha Bowl,12/25/1991,"Honolulu, HI",18,17,Georgia Tech,Stanford (17),1,1,1,1,1,1
+339,California Bowl,12/14/1991,"Fresno, CA",28,21,Bowling Green State,Fresno State,1,1,1,1,1,1
+340,Peach Bowl,1/2/1993,"Atlanta, GA",21,17,North Carolina (19),Mississippi State (24),1,1,1,1,1,1
+341,Blockbuster Bowl,1/1/1993,"Miami, FL",24,3,Stanford (13),Penn State (21),1,1,1,1,1,1
+342,Citrus Bowl,1/1/1993,"Orlando, FL",21,14,Georgia (8),Ohio State (15),1,1,1,1,1,1
+343,Cotton Bowl,1/1/1993,"Dallas, TX",28,3,Notre Dame (5),Texas A&M (4),1,1,1,1,1,1
+344,Fiesta Bowl,1/1/1993,"Tempe, AZ",26,22,Syracuse (6),Colorado (10),1,1,1,1,1,1
+345,Hall of Fame Bowl,1/1/1993,"Tampa, FL",38,23,Tennessee (17),Boston College (16),1,1,1,1,1,1
+346,Orange Bowl,1/1/1993,"Miami, FL",27,14,Florida State (3),Nebraska (11),1,1,1,1,1,1
+347,Rose Bowl,1/1/1993,"Pasadena, CA",38,31,Michigan (7),Washington (9),1,1,1,1,1,1
+348,Sugar Bowl,1/1/1993,"New Orleans, LA",34,13,Alabama (2),Miami (FL) (1),1,1,1,1,1,1
+349,Gator Bowl,12/31/1992,"Jacksonville, FL",27,10,Florida (14),North Carolina State (12),1,1,1,1,1,1
+350,Independence Bowl,12/31/1992,"Shreveport, LA",39,35,Wake Forest,Oregon,1,1,1,1,1,1
+351,Liberty Bowl,12/31/1992,"Memphis, TN",13,0,Mississippi (20),Air Force,1,1,1,1,1,1
+352,Sun Bowl,12/31/1992,"El Paso, TX",20,15,Baylor,Arizona (22),1,1,1,1,1,1
+353,Holiday Bowl,12/30/1992,"San Diego, CA",27,17,Hawaii,Illinois,1,1,1,1,1,1
+354,Copper Bowl,12/29/1992,"Tucson, AZ",31,28,Washington State (18),Utah,1,1,1,1,1,1
+355,Freedom Bowl,12/29/1992,"Anaheim, CA",24,7,Fresno State,Southern California (23),1,1,1,1,1,1
+356,Aloha Bowl,12/25/1992,"Honolulu, HI",23,20,Kansas,Brigham Young (25),1,1,1,1,1,1
+357,Las Vegas Bowl,12/18/1992,"Las Vegas, NV",35,34,Bowling Green State,Nevada,1,1,1,1,1,1
+358,Blockbuster Bowl,1/1/1994,"Miami, FL",31,13,Boston College (15),Virginia,1,1,1,1,1,1
+359,Citrus Bowl,1/1/1994,"Orlando, FL",31,13,Penn State (13),Tennessee (6),1,1,1,1,1,1
+360,Cotton Bowl,1/1/1994,"Dallas, TX",24,21,Notre Dame (4),Texas A&M (7),1,1,1,1,1,1
+361,Fiesta Bowl,1/1/1994,"Tempe, AZ",29,0,Arizona (16),Miami (FL) (10),1,1,1,1,1,1
+362,Hall of Fame Bowl,1/1/1994,"Tampa, FL",42,7,Michigan (23),North Carolina State,1,1,1,1,1,1
+363,Orange Bowl,1/1/1994,"Miami, FL",18,16,Florida State (1),Nebraska (2),1,1,1,1,1,1
+364,Rose Bowl,1/1/1994,"Pasadena, CA",21,16,Wisconsin (9),UCLA (14),1,1,1,1,1,1
+365,Sugar Bowl,1/1/1994,"New Orleans, LA",41,7,Florida (8),West Virginia (3),1,1,1,1,1,1
+366,Alamo Bowl,12/31/1993,"San Antonio, TX",37,3,California,Iowa,1,1,1,1,1,1
+367,Gator Bowl,12/31/1993,"Jacksonville, FL",24,10,Alabama (18),North Carolina (12),1,1,1,1,1,1
+368,Independence Bowl,12/31/1993,"Shreveport, LA",45,20,Virginia Tech (22),Indiana (21),1,1,1,1,1,1
+369,Peach Bowl,12/31/1993,"Atlanta, GA",14,13,Clemson (24),Kentucky,1,1,1,1,1,1
+370,Freedom Bowl,12/30/1993,"Anaheim, CA",28,21,Southern California,Utah,1,1,1,1,1,1
+371,Holiday Bowl,12/30/1993,"San Diego, CA",28,21,Ohio State (11),Brigham Young,1,1,1,1,1,1
+372,Copper Bowl,12/29/1993,"Tucson, AZ",52,17,Kansas State (20),Wyoming,1,1,1,1,1,1
+373,Liberty Bowl,12/28/1993,"Memphis, TN",18,7,Louisville (25),Michigan State,1,1,1,1,1,1
+374,Aloha Bowl,12/25/1993,"Honolulu, HI",41,30,Colorado (17),Fresno State (25),1,1,1,1,1,1
+375,Sun Bowl,12/24/1993,"El Paso, TX",41,10,Oklahoma (19),Texas Tech,1,1,1,1,1,1
+376,Las Vegas Bowl,12/17/1993,"Las Vegas, NV",42,33,Utah State,Ball State,1,1,1,1,1,1
+377,Carquest Bowl,1/2/1995,"Miami, FL",24,21,South Carolina,West Virginia,1,1,1,1,1,1
+378,Citrus Bowl,1/2/1995,"Orlando, FL",24,17,Alabama (6),Ohio State (13),1,1,1,1,1,1
+379,Cotton Bowl,1/2/1995,"Dallas, TX",55,14,Southern California (21),Texas Tech,1,1,1,1,1,1
+380,Fiesta Bowl,1/2/1995,"Tempe, AZ",41,24,Colorado (4),Notre Dame,1,1,1,1,1,1
+381,Hall of Fame Bowl,1/2/1995,"Tampa, FL",34,20,Wisconsin,Duke (25),1,1,1,1,1,1
+382,Rose Bowl,1/2/1995,"Pasadena, CA",38,20,Penn State (2),Oregon (12),1,1,1,1,1,1
+383,Sugar Bowl,1/2/1995,"New Orleans, LA",23,17,Florida State (7),Florida (5),1,1,1,1,1,1
+384,Orange Bowl,1/1/1995,"Miami, FL",24,17,Nebraska (1),Miami (FL) (3),1,1,1,1,1,1
+385,Peach Bowl,1/1/1995,"Atlanta, GA",28,24,North Carolina State (23),Mississippi State (16),1,1,1,1,1,1
+386,Alamo Bowl,12/31/1994,"San Antonio, TX",10,3,Washington State (24),Baylor,1,1,1,1,1,1
+387,Liberty Bowl,12/31/1994,"Memphis, TN",30,0,Illinois,East Carolina,1,1,1,1,1,1
+388,Gator Bowl,12/30/1994,"Gainesville, FL",45,23,Tennessee,Virginia Tech (17),1,1,1,1,1,1
+389,Holiday Bowl,12/30/1994,"San Diego, CA",24,14,Michigan (20),Colorado State (10),1,1,1,1,1,1
+390,Sun Bowl,12/30/1994,"El Paso, TX",35,31,Texas,North Carolina (19),1,1,1,1,1,1
+391,Copper Bowl,12/29/1994,"Tucson, AZ",31,6,Brigham Young (22),Oklahoma,1,1,1,1,1,1
+392,Independence Bowl,12/28/1994,"Shreveport, LA",20,10,Virginia (18),Texas Christian,1,1,1,1,1,1
+393,Freedom Bowl,12/27/1994,"Anaheim, CA",16,13,Utah (14),Arizona (15),1,1,1,1,1,1
+394,Aloha Bowl,12/25/1994,"Honolulu, HI",12,7,Boston College,Kansas State (11),1,1,1,1,1,1
+395,Las Vegas Bowl,12/15/1994,"Las Vegas, NV",52,24,Nevada-Las Vegas,Central Michigan,1,1,1,1,1,1
+396,Fiesta Bowl,1/2/1996,"Tempe, AZ",62,24,Nebraska (1),Florida (2),1,1,1,1,1,1
+397,Citrus Bowl,1/1/1996,"Orlando, FL",20,14,Tennessee (4),Ohio State (4),1,1,1,1,1,1
+398,Cotton Bowl,1/1/1996,"Dallas, TX",38,6,Colorado (7),Oregon (12),1,1,1,1,1,1
+399,Gator Bowl,1/1/1996,"Jacksonville, FL",41,0,Syracuse,Clemson (23),1,1,1,1,1,1
+400,Orange Bowl,1/1/1996,"Miami, FL",31,26,Florida State (8),Notre Dame (6),1,1,1,1,1,1
+401,Outback Bowl,1/1/1996,"Tampa, FL",43,14,Penn State (15),Auburn (16),1,1,1,1,1,1
+402,Rose Bowl,1/1/1996,"Pasadena, CA",41,32,Southern California (17),Northwestern (3),1,1,1,1,1,1
+403,Sugar Bowl,12/31/1995,"New Orleans, LA",28,10,Virginia Tech (13),Texas (9),1,1,1,1,1,1
+404,Carquest Bowl,12/30/1995,"Miami, FL",20,10,North Carolina,Arkansas (24),1,1,1,1,1,1
+405,Liberty Bowl,12/30/1995,"Memphis, TN",19,13,East Carolina,Stanford,1,1,1,1,1,1
+406,Peach Bowl,12/30/1995,"Atlanta, GA",34,27,Virginia (18),Georgia,1,1,1,1,1,1
+407,Holiday Bowl,12/29/1995,"San Diego, CA",54,21,Kansas State (10),Colorado State,1,1,1,1,1,1
+408,Independence Bowl,12/29/1995,"Shreveport, LA",45,26,Louisiana State,Michigan State,1,1,1,1,1,1
+409,Sun Bowl,12/29/1995,"El Paso, TX",38,18,Iowa,Washington (20),1,1,1,1,1,1
+410,Alamo Bowl,12/28/1995,"San Antonio, TX",22,20,Texas A&M (19),Michigan (14),1,1,1,1,1,1
+411,Copper Bowl,12/27/1995,"Tucson, AZ",55,41,Texas Tech,Air Force,1,1,1,1,1,1
+412,Aloha Bowl,12/25/1995,"Honolulu, HI",51,30,Kansas (11),UCLA,1,1,1,1,1,1
+413,Las Vegas Bowl,12/14/1995,"Las Vegas, NV",40,37,Toledo (25),Nevada,1,1,1,1,1,1
+414,Sugar Bowl,1/2/1997,"New Orleans, LA",52,20,Florida (3),Florida State (1),1,1,1,1,1,1
+415,Citrus Bowl,1/1/1997,"Orlando, FL",48,28,Tennessee (9),Northwestern (11),1,1,1,1,1,1
+416,Cotton Bowl,1/1/1997,"Dallas, TX",19,15,Brigham Young (5),Kansas State (14),1,1,1,1,1,1
+417,Fiesta Bowl,1/1/1997,"Tempe, AZ",38,15,Penn State (7),Texas (20),1,1,1,1,1,1
+418,Gator Bowl,1/1/1997,"Jacksonville, FL",20,13,North Carolina (12),West Virginia (25),1,1,1,1,1,1
+419,Outback Bowl,1/1/1997,"Tampa, FL",17,14,Alabama (16),Michigan (15),1,1,1,1,1,1
+420,Rose Bowl,1/1/1997,"Pasadena, CA",20,17,Ohio State (4),Arizona State (2),1,1,1,1,1,1
+421,Independence Bowl,12/31/1996,"Shreveport, LA",32,29,Auburn,Army (24),1,1,1,1,1,1
+422,Orange Bowl,12/31/1996,"Miami, FL",41,21,Nebraska (6),Virginia Tech (10),1,1,1,1,1,1
+423,Sun Bowl,12/31/1996,"El Paso, TX",38,0,Stanford,Michigan State,1,1,1,1,1,1
+424,Holiday Bowl,12/30/1996,"San Diego, CA",33,21,Colorado (8),Washington (13),1,1,1,1,1,1
+425,Alamo Bowl,12/29/1996,"San Antonio, TX",27,0,Iowa (21),Texas Tech,1,1,1,1,1,1
+426,Peach Bowl,12/28/1996,"Atlanta, GA",10,7,Louisiana State (17),Clemson,1,1,1,1,1,1
+427,Carquest Bowl,12/27/1996,"Miami, FL",31,21,Miami (FL) (19),Virginia,1,1,1,1,1,1
+428,Copper Bowl,12/27/1996,"Tucson, AZ",38,10,Wisconsin,Utah,1,1,1,1,1,1
+429,Liberty Bowl,12/27/1996,"Memphis, TN",30,17,Syracuse (23),Houston,1,1,1,1,1,1
+430,Aloha Bowl,12/25/1996,"Honolulu, HI",42,38,Navy,California,1,1,1,1,1,1
+431,Las Vegas Bowl,12/19/1996,"Las Vegas, NV",18,15,Nevada,Ball State,1,1,1,1,1,1
+432,Orange Bowl,1/2/1998,"Miami, FL",42,17,Nebraska (2),Tennessee (3),1,1,1,1,1,1
+433,Peach Bowl,1/2/1998,"Atlanta, GA",21,17,Auburn (13),Clemson,1,1,1,1,1,1
+434,Citrus Bowl,1/1/1998,"Orlando, FL",21,6,Florida (6),Penn State (11),1,1,1,1,1,1
+435,Cotton Bowl,1/1/1998,"Dallas, TX",29,23,UCLA (5),Texas A&M (20),1,1,1,1,1,1
+436,Gator Bowl,1/1/1998,"Jacksonville, FL",42,3,North Carolina (7),Virginia Tech,1,1,1,1,1,1
+437,Outback Bowl,1/1/1998,"Tampa, FL",33,6,Georgia (12),Wisconsin,1,1,1,1,1,1
+438,Rose Bowl,1/1/1998,"Pasadena, CA",21,16,Michigan (1),Washington State (8),1,1,1,1,1,1
+439,Sugar Bowl,1/1/1998,"New Orleans, LA",31,14,Florida State (4),Ohio State (9),1,1,1,1,1,1
+440,Fiesta Bowl,12/31/1997,"Tempe, AZ",35,18,Kansas State (10),Syracuse (14),1,1,1,1,1,1
+441,Liberty Bowl,12/31/1997,"Memphis, TN",41,7,Southern Mississippi (22),Pittsburgh,1,1,1,1,1,1
+442,Sun Bowl,12/31/1997,"El Paso, TX",17,7,Arizona State (16),Iowa,1,1,1,1,1,1
+443,Alamo Bowl,12/30/1997,"San Antonio, TX",33,20,Purdue (17),Oklahoma State (24),1,1,1,1,1,1
+444,Carquest Bowl,12/29/1997,"Miami, FL",35,30,Georgia Tech,West Virginia,1,1,1,1,1,1
+445,Holiday Bowl,12/29/1997,"San Diego, CA",35,24,Colorado State (18),Missouri (19),1,1,1,1,1,1
+446,Humanitarian Bowl,12/29/1997,"Boise, ID",35,19,Cincinnati,Utah State,1,1,1,1,1,1
+447,Independence Bowl,12/28/1997,"Shreveport, LA",27,9,Louisiana State (15),Notre Dame,1,1,1,1,1,1
+448,Insight Bowl,12/27/1997,"Tucson, AZ",20,14,Arizona,New Mexico,1,1,1,1,1,1
+449,Motor City Bowl,12/26/1997,"Pontiac, MI",34,31,Mississippi,Marshall,1,1,1,1,1,1
+450,Aloha Bowl,12/25/1997,"Honolulu, HI",51,23,Washington (21),Michigan State (25),1,1,1,1,1,1
+451,Las Vegas Bowl,12/20/1997,"Las Vegas, NV",41,13,Oregon,Air Force (23),1,1,1,1,1,1
+452,Fiesta Bowl,1/4/1999,"Tempe, AZ",23,16,Tennessee (1),Florida State (2),1,1,1,1,1,1
+453,Orange Bowl,1/2/1999,"Miami, FL",31,10,Florida (7),Syracuse (18),1,1,1,1,1,1
+454,Citrus Bowl,1/1/1999,"Orlando, FL",45,31,Michigan (15),Arkansas (11),1,1,1,1,1,1
+455,Cotton Bowl,1/1/1999,"Dallas, TX",38,11,Texas (20),Mississippi State (25),1,1,1,1,1,1
+456,Gator Bowl,1/1/1999,"Jacksonville, FL",35,28,Georgia Tech (12),Notre Dame (17),1,1,1,1,1,1
+457,Outback Bowl,1/1/1999,"Tampa, FL",26,14,Penn State (22),Kentucky,1,1,1,1,1,1
+458,Rose Bowl,1/1/1999,"Pasadena, CA",38,31,Wisconsin (9),UCLA (6),1,1,1,1,1,1
+459,Sugar Bowl,1/1/1999,"New Orleans, LA",24,14,Ohio State (3),Texas A&M (8),1,1,1,1,1,1
+460,Independence Bowl,12/31/1998,"Shreveport, LA",35,18,Mississippi,Texas Tech,1,1,1,1,1,1
+461,Liberty Bowl,12/31/1998,"Memphis, TN",41,27,Tulane (10),Brigham Young,1,1,1,1,1,1
+462,Peach Bowl,12/31/1998,"Atlanta, GA",35,33,Georgia (19),Virginia (13),1,1,1,1,1,1
+463,Sun Bowl,12/31/1998,"El Paso, TX",28,19,Texas Christian,Southern California,1,1,1,1,1,1
+464,Holiday Bowl,12/30/1998,"San Diego, CA",23,20,Arizona (5),Nebraska (14),1,1,1,1,1,1
+465,Humanitarian Bowl,12/30/1998,"Boise, ID",42,35,Idaho,Southern Mississippi,1,1,1,1,1,1
+466,Alamo Bowl,12/29/1998,"San Antonio, TX",37,34,Purdue,Kansas State (4),1,1,1,1,1,1
+467,Micron PC Bowl,12/29/1998,"Miami, FL",46,23,Miami (FL) (24),North Carolina State,1,1,1,1,1,1
+468,Music City Bowl,12/29/1998,"Nashville, TN",38,7,Virginia Tech,Alabama,1,1,1,1,1,1
+469,Insight Bowl,12/26/1998,"Tucson, AZ",34,31,Missouri (23),West Virginia,1,1,1,1,1,1
+470,Aloha Classic,12/25/1998,"Honolulu, HI",51,43,Colorado,Oregon (21),1,1,1,1,1,1
+471,Oahu Classic,12/25/1998,"Honolulu, HI",45,25,Air Force (16),Washington,1,1,1,1,1,1
+472,Motor City Bowl,12/23/1998,"Pontiac, MI",48,29,Marshall,Louisville,1,1,1,1,1,1
+473,Las Vegas Bowl,12/19/1998,"Las Vegas, NV",20,13,North Carolina,San Diego State,1,1,1,1,1,1
+474,Sugar Bowl,1/4/2000,"New Orleans, LA",46,29,Florida State (1),Virginia Tech (2),1,1,1,1,1,1
+475,Fiesta Bowl,1/2/2000,"Tempe, AZ",31,21,Nebraska (3),Tennessee (6),1,1,1,1,1,1
+476,Citrus Bowl,1/1/2000,"Orlando, FL",37,34,Michigan State (9),Florida (10),1,1,1,1,1,1
+477,Cotton Bowl,1/1/2000,"Dallas, TX",27,6,Arkansas (24),Texas (14),1,1,1,1,1,1
+478,Gator Bowl,1/1/2000,"Jacksonville, FL",28,13,Miami (FL) (23),Georgia Tech (17),1,1,1,1,1,1
+479,Orange Bowl,1/1/2000,"Miami, FL",35,34,Michigan (8),Alabama (5),1,1,1,1,1,1
+480,Outback Bowl,1/1/2000,"Tampa, FL",28,25,Georgia (21),Purdue (19),1,1,1,1,1,1
+481,Rose Bowl,1/1/2000,"Pasadena, CA",17,9,Wisconsin (4),Stanford (22),1,1,1,1,1,1
+482,Independence Bowl,12/31/1999,"Shreveport, LA",27,25,Mississippi,Oklahoma,1,1,1,1,1,1
+483,Insight Bowl,12/31/1999,"Tucson, AZ",62,28,Colorado,Boston College (25),1,1,1,1,1,1
+484,Liberty Bowl,12/31/1999,"Memphis, TN",23,17,Southern Mississippi (16),Colorado State,1,1,1,1,1,1
+485,Sun Bowl,12/31/1999,"El Paso, TX",24,20,Oregon,Minnesota (12),1,1,1,1,1,1
+486,Humanitarian Bowl,12/30/1999,"Boise, ID",34,31,Boise State,Louisville,1,1,1,1,1,1
+487,Micron PC Bowl,12/30/1999,"Miami, FL",63,21,Illinois,Virginia,1,1,1,1,1,1
+488,Peach Bowl,12/30/1999,"Atlanta, GA",17,7,Mississippi State (15),Clemson,1,1,1,1,1,1
+489,Holiday Bowl,12/29/1999,"San Diego, CA",24,20,Kansas State (7),Washington,1,1,1,1,1,1
+490,Music City Bowl,12/29/1999,"Nashville, TN",20,13,Syracuse,Kentucky,1,1,1,1,1,1
+491,Alamo Bowl,12/28/1999,"San Antonio, TX",24,0,Penn State (13),Texas A&M (18),1,1,1,1,1,1
+492,Motor City Bowl,12/27/1999,"Pontiac, MI",21,3,Marshall (11),Brigham Young,1,1,1,1,1,1
+493,Aloha Classic,12/25/1999,"Honolulu, HI",23,3,Wake Forest,Arizona State,1,1,1,1,1,1
+494,Oahu Classic,12/25/1999,"Honolulu, HI",23,17,Hawaii,Oregon State,1,1,1,1,1,1
+495,Mobile Alabama Bowl,12/22/1999,"Mobile, AL",28,14,Texas Christian,East Carolina (20),1,1,1,1,1,1
+496,Las Vegas Bowl,12/18/1999,"Las Vegas, NV",17,16,Utah,Fresno State,1,1,1,1,1,1
+497,Orange Bowl,1/3/2001,"Miami, FL",13,2,Oklahoma (1),Florida State (3),1,1,1,1,1,1
+498,Sugar Bowl,1/2/2001,"New Orleans, LA",37,20,Miami (FL) (2),Florida (7),1,1,1,1,1,1
+499,Citrus Bowl,1/1/2001,"Orlando, FL",31,28,Michigan (17),Auburn (20),1,1,1,1,1,1
+500,Cotton Bowl,1/1/2001,"Dallas, TX",35,21,Kansas State (11),Tennessee (21),1,1,1,1,1,1
+501,Fiesta Bowl,1/1/2001,"Tempe, AZ",41,9,Oregon State (5),Notre Dame (10),1,1,1,1,1,1
+502,Gator Bowl,1/1/2001,"Jacksonville, FL",41,20,Virginia Tech (6),Clemson (16),1,1,1,1,1,1
+503,Outback Bowl,1/1/2001,"Tampa, FL",24,7,South Carolina,Ohio State (19),1,1,1,1,1,1
+504,Rose Bowl,1/1/2001,"Pasadena, CA",34,24,Washington (4),Purdue (14),1,1,1,1,1,1
+505,Independence Bowl,12/31/2000,"Shreveport, LA",43,41,Mississippi State,Texas A&M,1,1,1,1,1,1
+506,Silicon Valley Bowl,12/31/2000,"San Jose, CA",37,34,Air Force,Fresno State,1,1,1,1,1,1
+507,Alamo Bowl,12/30/2000,"San Antonio, TX",66,17,Nebraska (9),Northwestern (18),1,1,1,1,1,1
+508,Holiday Bowl,12/29/2000,"San Diego, CA",35,30,Oregon (8),Texas (12),1,1,1,1,1,1
+509,Liberty Bowl,12/29/2000,"Memphis, TN",22,17,Colorado State (23),Louisville (22),1,1,1,1,1,1
+510,Peach Bowl,12/29/2000,"Atlanta, GA",28,14,Louisiana State,Georgia Tech (15),1,1,1,1,1,1
+511,Sun Bowl,12/29/2000,"El Paso, TX",21,20,Wisconsin,UCLA,1,1,1,1,1,1
+512,Humanitarian Bowl,12/28/2000,"Boise, ID",38,23,Boise State,Texas-El Paso,1,1,1,1,1,1
+513,Insight Bowl,12/28/2000,"Phoenix, AZ",37,29,Iowa State,Pittsburgh,1,1,1,1,1,1
+514,Micron PC Bowl,12/28/2000,"Miami, FL",38,30,North Carolina State,Minnesota,1,1,1,1,1,1
+515,Music City Bowl,12/28/2000,"Nashville, TN",49,38,West Virginia,Mississippi,1,1,1,1,1,1
+516,Gallery Furniture Bowl,12/27/2000,"Houston, TX",40,27,East Carolina,Texas Tech,1,1,1,1,1,1
+517,Motor City Bowl,12/27/2000,"Detroit, MI",25,14,Marshall,Cincinnati,1,1,1,1,1,1
+518,Aloha Classic,12/25/2000,"Honolulu, HI",31,17,Boston College,Arizona State,1,1,1,1,1,1
+519,Oahu Classic,12/24/2000,"Honolulu, HI",37,14,Georgia (24),Virginia,1,1,1,1,1,1
+520,Las Vegas Bowl,12/21/2000,"Las Vegas, NV",31,14,Nevada-Las Vegas,Arkansas,1,1,1,1,1,1
+521,Mobile Alabama Bowl,12/20/2000,"Mobile, AL",28,21,Southern Mississippi,Texas Christian (13),1,1,1,1,1,1
+522,Rose Bowl,1/3/2002,"Pasadena, CA",37,14,Miami (FL) (1),Nebraska (4),1,1,1,1,1,1
+523,Orange Bowl,1/2/2002,"Miami, FL",56,23,Florida (5),Maryland (6),1,1,1,1,1,1
+524,Citrus Bowl,1/1/2002,"Orlando, FL",45,17,Tennessee (8),Michigan (17),1,1,1,1,1,1
+525,Cotton Bowl,1/1/2002,"Dallas, TX",10,3,Oklahoma (10),Arkansas,1,1,1,1,1,1
+526,Fiesta Bowl,1/1/2002,"Tempe, AZ",38,16,Oregon (2),Colorado (3),1,1,1,1,1,1
+527,Gator Bowl,1/1/2002,"Jacksonville, FL",30,17,Florida State (24),Virginia Tech (15),1,1,1,1,1,1
+528,Outback Bowl,1/1/2002,"Tampa, FL",31,28,South Carolina (14),Ohio State (22),1,1,1,1,1,1
+529,Sugar Bowl,1/1/2002,"New Orleans, LA",47,34,Louisiana State (12),Illinois (7),1,1,1,1,1,1
+530,Humanitarian Bowl,12/31/2001,"Boise, ID",49,24,Clemson,Louisiana Tech,1,1,1,1,1,1
+531,Liberty Bowl,12/31/2001,"Memphis, TN",28,10,Louisville (23),Brigham Young (19),1,1,1,1,1,1
+532,Peach Bowl,12/31/2001,"Atlanta, GA",16,10,North Carolina,Auburn,1,1,1,1,1,1
+533,Silicon Valley Bowl,12/31/2001,"San Jose, CA",44,35,Michigan State,Fresno State (20),1,1,1,1,1,1
+534,Sun Bowl,12/31/2001,"El Paso, TX",33,27,Washington State (13),Purdue,1,1,1,1,1,1
+535,Alamo Bowl,12/29/2001,"San Antonio, TX",19,16,Iowa,Texas Tech,1,1,1,1,1,1
+536,Insight Bowl,12/29/2001,"Phoenix, AZ",26,3,Syracuse (18),Kansas State,1,1,1,1,1,1
+537,Motor City Bowl,12/29/2001,"Pontiac, MI",23,16,Toledo (25),Cincinnati,1,1,1,1,1,1
+538,Gallery Furniture Bowl,12/28/2001,"Houston, TX",28,9,Texas A&M,Texas Christian,1,1,1,1,1,1
+539,Holiday Bowl,12/28/2001,"San Diego, CA",47,43,Texas (9),Washington (21),1,1,1,1,1,1
+540,Music City Bowl,12/28/2001,"Nashville, TN",20,16,Boston College,Georgia (16),1,1,1,1,1,1
+541,Independence Bowl,12/27/2001,"Shreveport, LA",14,13,Alabama,Iowa State,1,1,1,1,1,1
+542,Seattle Bowl,12/27/2001,"Seattle, WA",24,14,Georgia Tech,Stanford (11),1,1,1,1,1,1
+543,Las Vegas Bowl,12/25/2001,"Las Vegas, NV",10,6,Utah,Southern California,1,1,1,1,1,1
+544,Tangerine Bowl II,12/20/2001,"Orlando, FL",34,19,Pittsburgh,North Carolina State,1,1,1,1,1,1
+545,GMAC Bowl,12/19/2001,"Mobile, AL",64,61,Marshall,East Carolina,1,1,1,1,1,1
+546,New Orleans Bowl,12/18/2001,"New Orleans, LA",45,20,Colorado State,North Texas,1,1,1,1,1,1
+547,Fiesta Bowl,1/3/2003,"Tempe, AZ",31,24,Ohio State (2),Miami (FL) (1),1,1,1,1,1,1
+548,Orange Bowl,1/2/2003,"Miami, FL",38,17,Southern California (5),Iowa (3),1,1,1,1,1,1
+549,Capital One Bowl,1/1/2003,"Orlando, FL",13,9,Auburn (19),Penn State (10),1,1,1,1,1,1
+550,Cotton Bowl,1/1/2003,"Dallas, TX",35,20,Texas (9),Louisiana State,1,1,1,1,1,1
+551,Gator Bowl,1/1/2003,"Jacksonville, FL",28,6,North Carolina State (17),Notre Dame (11),1,1,1,1,1,1
+552,Outback Bowl,1/1/2003,"Tampa, FL",38,30,Michigan (12),Florida (22),1,1,1,1,1,1
+553,Rose Bowl,1/1/2003,"Pasadena, CA",34,14,Oklahoma (8),Washington State (7),1,1,1,1,1,1
+554,Sugar Bowl,1/1/2003,"New Orleans, LA",26,13,Georgia (4),Florida State (16),1,1,1,1,1,1
+555,Humanitarian Bowl,12/31/2002,"Boise, ID",34,16,Boise State (18),Iowa State,1,1,1,1,1,1
+556,Liberty Bowl,12/31/2002,"Memphis, TN",17,3,Texas Christian,Colorado State (23),1,1,1,1,1,1
+557,Peach Bowl,12/31/2002,"Atlanta, GA",30,3,Maryland (20),Tennessee,1,1,1,1,1,1
+558,San Francisco Bowl,12/31/2002,"San Francisco, CA",20,13,Virginia Tech (21),Air Force,1,1,1,1,1,1
+559,Silicon Valley Bowl,12/31/2002,"San Jose, CA",30,21,Fresno State,Georgia Tech,1,1,1,1,1,1
+560,Sun Bowl,12/31/2002,"El Paso, TX",34,24,Purdue,Washington,1,1,1,1,1,1
+561,Music City Bowl,12/30/2002,"Nashville, TN",29,14,Minnesota,Arkansas (25),1,1,1,1,1,1
+562,Seattle Bowl,12/30/2002,"Seattle, WA",38,17,Wake Forest,Oregon,1,1,1,1,1,1
+563,Alamo Bowl,12/28/2002,"San Antonio, TX",31,28,Wisconsin,Colorado (14),1,1,1,1,1,1
+564,Continental Tire Bowl,12/28/2002,"Charlotte, NC",48,22,Virginia,West Virginia (15),1,1,1,1,1,1
+565,Holiday Bowl,12/27/2002,"San Diego, CA",34,27,Kansas State (6),Arizona State,1,1,1,1,1,1
+566,Houston Bowl,12/27/2002,"Houston, TX",33,23,Oklahoma State,Southern Mississippi,1,1,1,1,1,1
+567,Independence Bowl,12/27/2002,"Shreveport, LA",27,23,Mississippi,Nebraska,1,1,1,1,1,1
+568,Insight Bowl,12/26/2002,"Phoenix, AZ",38,13,Pittsburgh (24),Oregon State,1,1,1,1,1,1
+569,Motor City Bowl,12/26/2002,"Detroit, MI",51,25,Boston College,Toledo,1,1,1,1,1,1
+570,Hawaii Bowl,12/25/2002,"Honolulu, HI",36,28,Tulane,Hawaii,1,1,1,1,1,1
+571,Las Vegas Bowl,12/25/2002,"Las Vegas, NV",27,13,UCLA,New Mexico,1,1,1,1,1,1
+572,Tangerine Bowl II,12/23/2002,"Orlando, FL",55,15,Texas Tech,Clemson,1,1,1,1,1,1
+573,GMAC Bowl,12/18/2002,"Mobile, AL",38,15,Marshall,Louisville,1,1,1,1,1,1
+574,New Orleans Bowl,12/17/2002,"New Orleans, LA",24,19,North Texas,Cincinnati,1,1,1,1,1,1
+575,Sugar Bowl,1/4/2004,"New Orleans, LA",21,14,Louisiana State (2),Oklahoma (3),1,1,1,1,1,1
+576,Humanitarian Bowl,1/3/2004,"Boise, ID",52,10,Georgia Tech,Tulsa,1,1,1,1,1,1
+577,Cotton Bowl,1/2/2004,"Dallas, TX",31,28,Mississippi (16),Oklahoma State (21),1,1,1,1,1,1
+578,Fiesta Bowl,1/2/2004,"Tempe, AZ",35,28,Ohio State (7),Kansas State (8),1,1,1,1,1,1
+579,Peach Bowl,1/2/2004,"Atlanta, GA",27,14,Clemson,Tennessee (6),1,1,1,1,1,1
+580,Capital One Bowl,1/1/2004,"Orlando, FL",34,27,Georgia (11),Purdue (12),1,1,1,1,1,1
+581,Gator Bowl,1/1/2004,"Jacksonville, FL",41,7,Maryland (23),West Virginia (20),1,1,1,1,1,1
+582,Orange Bowl,1/1/2004,"Miami, FL",16,14,Miami (FL) (10),Florida State (9),1,1,1,1,1,1
+583,Outback Bowl,1/1/2004,"Tampa, FL",37,17,Iowa (13),Florida (17),1,1,1,1,1,1
+584,Rose Bowl,1/1/2004,"Pasadena, CA",28,14,Southern California (1),Michigan (4),1,1,1,1,1,1
+585,Independence Bowl,12/31/2003,"Shreveport, LA",27,14,Arkansas,Missouri,1,1,1,1,1,1
+586,Liberty Bowl,12/31/2003,"Memphis, TN",17,0,Utah (25),Southern Mississippi,1,1,1,1,1,1
+587,Music City Bowl,12/31/2003,"Nashville, TN",28,14,Auburn,Wisconsin,1,1,1,1,1,1
+588,San Francisco Bowl,12/31/2003,"San Francisco, CA",35,21,Boston College,Colorado State,1,1,1,1,1,1
+589,Sun Bowl,12/31/2003,"El Paso, TX",31,30,Minnesota (24),Oregon,1,1,1,1,1,1
+590,Holiday Bowl,12/30/2003,"San Diego, CA",28,20,Washington State (15),Texas (5),1,1,1,1,1,1
+591,Houston Bowl,12/30/2003,"Houston, TX",38,14,Texas Tech,Navy,1,1,1,1,1,1
+592,Silicon Valley Bowl,12/30/2003,"San Jose, CA",17,9,Fresno State,UCLA,1,1,1,1,1,1
+593,Alamo Bowl,12/29/2003,"San Antonio, TX",17,3,Nebraska (22),Michigan State,1,1,1,1,1,1
+594,Continental Tire Bowl,12/27/2003,"Charlotte, NC",23,16,Virginia,Pittsburgh,1,1,1,1,1,1
+595,Insight Bowl,12/26/2003,"Phoenix, AZ",52,49,California,Virginia Tech,1,1,1,1,1,1
+596,Motor City Bowl,12/26/2003,"Detroit, MI",28,24,Bowling Green State,Northwestern,1,1,1,1,1,1
+597,Hawaii Bowl,12/25/2003,"Honolulu, HI",54,48,Hawaii,Houston,1,1,1,1,1,1
+598,Las Vegas Bowl,12/24/2003,"Las Vegas, NV",55,14,Oregon State,New Mexico,1,1,1,1,1,1
+599,Fort Worth Bowl,12/23/2003,"Fort Worth, TX",34,31,Boise State (18),Texas Christian (19),1,1,1,1,1,1
+600,Tangerine Bowl II,12/22/2003,"Orlando, FL",56,26,North Carolina State,Kansas,1,1,1,1,1,1
+601,GMAC Bowl,12/18/2003,"Mobile, AL",49,28,Miami (OH) (14),Louisville,1,1,1,1,1,1
+602,New Orleans Bowl,12/16/2003,"New Orleans, LA",27,17,Memphis,North Texas,1,1,1,1,1,1
+603,Orange Bowl,1/4/2005,"Miami, FL",55,19,Southern California (1),Oklahoma (2),1,1,1,1,1,1
+604,Sugar Bowl,1/3/2005,"New Orleans, LA",16,13,Auburn (3),Virginia Tech (9),1,1,1,1,1,1
+605,Capital One Bowl,1/1/2005,"Orlando, FL",30,25,Iowa (11),Louisiana State (12),1,1,1,1,1,1
+606,Cotton Bowl,1/1/2005,"Dallas, TX",38,7,Tennessee (15),Texas A&M (22),1,1,1,1,1,1
+607,Fiesta Bowl,1/1/2005,"Tempe, AZ",35,7,Utah (5),Pittsburgh (19),1,1,1,1,1,1
+608,Gator Bowl,1/1/2005,"Jacksonville, FL",30,18,Florida State (17),West Virginia,1,1,1,1,1,1
+609,Outback Bowl,1/1/2005,"Tampa, FL",24,21,Georgia (8),Wisconsin (16),1,1,1,1,1,1
+610,Rose Bowl,1/1/2005,"Pasadena, CA",38,37,Texas (6),Michigan (13),1,1,1,1,1,1
+611,Liberty Bowl,12/31/2004,"Memphis, TN",44,40,Louisville (7),Boise State (10),1,1,1,1,1,1
+612,Music City Bowl,12/31/2004,"Nashville, TN",20,16,Minnesota,Alabama,1,1,1,1,1,1
+613,Peach Bowl,12/31/2004,"Atlanta, GA",27,10,Miami (FL) (14),Florida (20),1,1,1,1,1,1
+614,Sun Bowl,12/31/2004,"El Paso, TX",27,23,Arizona State (21),Purdue,1,1,1,1,1,1
+615,Continental Tire Bowl,12/30/2004,"Charlotte, NC",37,24,Boston College (25),North Carolina,1,1,1,1,1,1
+616,Emerald Bowl,12/30/2004,"San Francisco, CA",34,19,Navy,New Mexico,1,1,1,1,1,1
+617,Holiday Bowl,12/30/2004,"San Diego, CA",45,31,Texas Tech (23),California (4),1,1,1,1,1,1
+618,Silicon Valley Bowl,12/30/2004,"San Jose, CA",34,21,Northern Illinois,Troy,1,1,1,1,1,1
+619,Alamo Bowl,12/29/2004,"San Antonio, TX",33,7,Ohio State (24),Oklahoma State,1,1,1,1,1,1
+620,Houston Bowl,12/29/2004,"Houston, TX",33,28,Colorado,Texas-El Paso,1,1,1,1,1,1
+621,Independence Bowl,12/28/2004,"Shreveport, LA",17,13,Iowa State,Miami (OH),1,1,1,1,1,1
+622,Insight Bowl,12/28/2004,"Phoenix, AZ",38,21,Oregon State,Notre Dame,1,1,1,1,1,1
+623,Motor City Bowl,12/27/2004,"Detroit, MI",39,10,Connecticut,Toledo,1,1,1,1,1,1
+624,MPC Computers Bowl,12/27/2004,"Boise, ID",37,34,Fresno State,Virginia (18),1,1,1,1,1,1
+625,Hawaii Bowl,12/24/2004,"Honolulu, HI",59,40,Hawaii,Alabama-Birmingham,1,1,1,1,1,1
+626,Fort Worth Bowl,12/23/2004,"Fort Worth, TX",32,14,Cincinnati,Marshall,1,1,1,1,1,1
+627,Las Vegas Bowl,12/23/2004,"Las Vegas, NV",24,21,Wyoming,UCLA,1,1,1,1,1,1
+628,GMAC Bowl,12/22/2004,"Mobile, AL",52,35,Bowling Green State,Memphis,1,1,1,1,1,1
+629,Champs Sports Bowl,12/21/2004,"Orlando, FL",51,14,Georgia Tech,Syracuse,1,1,1,1,1,1
+630,New Orleans Bowl,12/14/2004,"New Orleans, LA",31,10,Southern Mississippi,North Texas,1,1,1,1,1,1
+631,Rose Bowl,1/4/2006,"Pasadena, CA",41,38,Texas,Southern California,1,1,1,1,1,1
+632,Orange Bowl,1/3/2006,"Miami, FL",26,23,Penn State,Florida State,1,1,1,1,1,1
+633,Capital One Bowl,1/2/2006,"Orlando, FL",24,10,Wisconsin,Auburn,1,1,1,1,1,1
+634,Cotton Bowl,1/2/2006,"Dallas, TX",13,10,Alabama,Texas Tech,1,1,1,1,1,1
+635,Fiesta Bowl,1/2/2006,"Tempe, AZ",34,20,Ohio State,Notre Dame,1,1,1,1,1,1
+636,Gator Bowl,1/2/2006,"Jacksonville, FL",35,24,Virginia Tech,Louisville,1,1,1,1,1,1
+637,Outback Bowl,1/2/2006,"Tampa, FL",31,24,Florida,Iowa,1,1,1,1,1,1
+638,Sugar Bowl,1/2/2006,"Atlanta, GA",38,35,West Virginia,Georgia,1,1,1,1,1,1
+639,Houston Bowl,12/31/2005,"Houston, TX",27,24,Texas Christian,Iowa State,1,1,1,1,1,1
+640,Liberty Bowl,12/31/2005,"Memphis, TN",31,24,Tulsa,Fresno State,1,1,1,1,1,1
+641,Meineke Car Care Bowl,12/31/2005,"Charlotte, NC",14,0,North Carolina State,South Florida,1,1,1,1,1,1
+642,Independence Bowl,12/30/2005,"Shreveport, LA",38,31,Missouri,South Carolina,1,1,1,1,1,1
+643,Music City Bowl,12/30/2005,"Nashville, TN",34,31,Virginia,Minnesota,1,1,1,1,1,1
+644,Peach Bowl,12/30/2005,"Atlanta, GA",40,3,Louisiana State,Miami (FL),1,1,1,1,1,1
+645,Sun Bowl,12/30/2005,"El Paso, TX",50,38,UCLA,Northwestern,1,1,1,1,1,1
+646,Emerald Bowl,12/29/2005,"San Francisco, CA",38,10,Utah,Georgia Tech,1,1,1,1,1,1
+647,Holiday Bowl,12/29/2005,"San Diego, CA",17,14,Oklahoma,Oregon,1,1,1,1,1,1
+648,Alamo Bowl,12/28/2005,"San Antonio, TX",32,28,Nebraska,Michigan,1,1,1,1,1,1
+649,MPC Computers Bowl,12/28/2005,"Boise, ID",27,21,Boston College,Boise State,1,1,1,1,1,1
+650,Champs Sports Bowl,12/27/2005,"Orlando, FL",19,10,Clemson,Colorado,1,1,1,1,1,1
+651,Insight Bowl,12/27/2005,"Phoenix, AZ",45,40,Arizona State,Rutgers,1,1,1,1,1,1
+652,Motor City Bowl,12/26/2005,"Detroit, MI",38,31,Memphis,Akron,1,1,1,1,1,1
+653,Hawaii Bowl,12/24/2005,"Honolulu, HI",49,48,Nevada,Central Florida,1,1,1,1,1,1
+654,Fort Worth Bowl,12/23/2005,"Fort Worth, TX",42,13,Kansas,Houston,1,1,1,1,1,1
+655,Las Vegas Bowl,12/22/2005,"Las Vegas, NV",35,28,California,Brigham Young,1,1,1,1,1,1
+656,Poinsettia Bowl,12/22/2005,"San Diego, CA",51,30,Navy,Colorado State,1,1,1,1,1,1
+657,GMAC Bowl,12/21/2005,"Mobile, AL",45,13,Toledo,Texas-El Paso,1,1,1,1,1,1
+658,New Orleans Bowl,12/20/2005,"Lafayette, LA",31,19,Southern Mississippi,Arkansas State,1,1,1,1,1,1
+659,BCS Championship,1/8/2007,"Glendale, AZ",41,14,Florida (2),Ohio State (1),1,1,1,1,1,1
+660,GMAC Bowl,1/7/2007,"Mobile, AL",28,7,Southern Mississippi,Ohio,1,1,1,1,1,1
+661,International Bowl,1/6/2007,"Toronto, Canada",27,24,Cincinnati,Western Michigan,1,1,1,1,1,1
+662,Sugar Bowl,1/3/2007,"New Orleans, LA",41,14,Louisiana State (4),Notre Dame (11),1,1,1,1,1,1
+663,Orange Bowl,1/2/2007,"Miami, FL",24,13,Louisville (5),Wake Forest (15),1,1,1,1,1,1
+664,Capital One Bowl,1/1/2007,"Orlando, FL",17,14,Wisconsin (6),Arkansas (12),1,1,1,1,1,1
+665,Cotton Bowl,1/1/2007,"Dallas, TX",17,14,Auburn (10),Nebraska (22),1,1,1,1,1,1
+666,Fiesta Bowl,1/1/2007,"Glendale, AZ",43,42,Boise State (9),Oklahoma (7),1,1,1,1,1,1
+667,Gator Bowl,1/1/2007,"Jacksonville, FL",38,35,West Virginia (13),Georgia Tech,1,1,1,1,1,1
+668,Outback Bowl,1/1/2007,"Tampa, FL",20,10,Penn State,Tennessee (17),1,1,1,1,1,1
+669,Rose Bowl,1/1/2007,"Pasadena, CA",32,18,Southern California (8),Michigan (3),1,1,1,1,1,1
+670,MPC Computers Bowl,12/31/2006,"Boise, ID",21,20,Miami (FL),Nevada,1,1,1,1,1,1
+671,Alamo Bowl,12/30/2006,"San Antonio, TX",26,24,Texas (18),Iowa,1,1,1,1,1,1
+672,Chick-fil-A Bowl,12/30/2006,"Atlanta, GA",31,24,Georgia,Virginia Tech (14),1,1,1,1,1,1
+673,Meineke Car Care Bowl,12/30/2006,"Charlotte, NC",25,24,Boston College (23),Navy,1,1,1,1,1,1
+674,Champs Sports Bowl,12/29/2006,"Orlando, FL",24,7,Maryland,Purdue,1,1,1,1,1,1
+675,Insight Bowl,12/29/2006,"Tempe, AZ",44,41,Texas Tech,Minnesota,1,1,1,1,1,1
+676,Liberty Bowl,12/29/2006,"Memphis, TN",44,36,South Carolina,Houston,1,1,1,1,1,1
+677,Music City Bowl,12/29/2006,"Nashville, TN",28,20,Kentucky,Clemson,1,1,1,1,1,1
+678,Sun Bowl,12/29/2006,"El Paso, TX",39,38,Oregon State (24),Missouri,1,1,1,1,1,1
+679,Holiday Bowl,12/28/2006,"San Diego, CA",45,10,California (20),Texas A&M (21),1,1,1,1,1,1
+680,Independence Bowl,12/28/2006,"Shreveport, LA",34,31,Oklahoma State,Alabama,1,1,1,1,1,1
+681,Texas Bowl,12/28/2006,"Houston, TX",37,10,Rutgers (16),Kansas State,1,1,1,1,1,1
+682,Emerald Bowl,12/27/2006,"San Francisco, CA",44,27,Florida State,UCLA,1,1,1,1,1,1
+683,Motor City Bowl,12/26/2006,"Detroit, MI",31,14,Central Michigan,Middle Tennessee State,1,1,1,1,1,1
+684,Hawaii Bowl,12/24/2006,"Honolulu, HI",41,24,Hawaii,Arizona State,1,1,1,1,1,1
+685,Armed Forces Bowl,12/23/2006,"Fort Worth, TX",25,13,Utah,Tulsa,1,1,1,1,1,1
+686,New Mexico Bowl,12/23/2006,"Albuquerque, NM",20,12,San Jose State,New Mexico,1,1,1,1,1,1
+687,PapaJohns.com Bowl,12/23/2006,"Birmingham, AL",24,7,South Florida,East Carolina,1,1,1,1,1,1
+688,New Orleans Bowl,12/22/2006,"New Orleans, LA",41,17,Troy,Rice,1,1,1,1,1,1
+689,Las Vegas Bowl,12/21/2006,"Las Vegas, NV",38,8,Brigham Young (19),Oregon,1,1,1,1,1,1
+690,Poinsettia Bowl,12/19/2006,"San Diego, CA",37,7,Texas Christian (25),Northern Illinois,1,1,1,1,1,1
+691,BCS Championship,1/7/2008,"New Orleans, LA",38,24,Louisiana State (2),Ohio State (1),1,1,1,1,1,1
+692,GMAC Bowl,1/6/2008,"Mobile, AL",63,7,Tulsa,Bowling Green State,1,1,1,1,1,1
+693,International Bowl,1/5/2008,"Toronto, Canada",52,30,Rutgers,Ball State,1,1,1,1,1,1
+694,Orange Bowl,1/3/2008,"Miami, FL",24,21,Kansas (8),Virginia Tech (5),1,1,1,1,1,1
+695,Fiesta Bowl,1/2/2008,"Glendale, AZ",48,28,West Virginia (11),Oklahoma (3),1,1,1,1,1,1
+696,Capital One Bowl,1/1/2008,"Orlando, FL",41,35,Michigan,Florida (9),1,1,1,1,1,1
+697,Cotton Bowl,1/1/2008,"Dallas, TX",38,7,Missouri (7),Arkansas (25),1,1,1,1,1,1
+698,Gator Bowl,1/1/2008,"Jacksonville, FL",31,28,Texas Tech,Virginia (21),1,1,1,1,1,1
+699,Outback Bowl,1/1/2008,"Tampa, FL",21,17,Tennessee (16),Wisconsin (18),1,1,1,1,1,1
+700,Rose Bowl,1/1/2008,"Pasadena, CA",49,17,Southern California (6),Illinois (13),1,1,1,1,1,1
+701,Sugar Bowl,1/1/2008,"New Orleans, LA",41,10,Georgia (4),Hawaii (10),1,1,1,1,1,1
+702,Armed Forces Bowl,12/31/2007,"Fort Worth, TX",42,36,California,Air Force,1,1,1,1,1,1
+703,Chick-fil-A Bowl,12/31/2007,"Atlanta, GA",23,20,Auburn (22),Clemson (15),1,1,1,1,1,1
+704,Humanitarian Bowl,12/31/2007,"Boise, ID",40,28,Fresno State,Georgia Tech,1,1,1,1,1,1
+705,Insight Bowl,12/31/2007,"Tempe, AZ",49,33,Oklahoma State,Indiana,1,1,1,1,1,1
+706,Music City Bowl,12/31/2007,"Nashville, TN",35,28,Kentucky,Florida State,1,1,1,1,1,1
+707,Sun Bowl,12/31/2007,"El Paso, TX",56,21,Oregon,South Florida (23),1,1,1,1,1,1
+708,Independence Bowl,12/30/2007,"Shreveport, LA",30,24,Alabama,Colorado,1,1,1,1,1,1
+709,Alamo Bowl,12/29/2007,"San Antonio, TX",24,17,Penn State,Texas A&M,1,1,1,1,1,1
+710,Liberty Bowl,12/29/2007,"Memphis, TN",10,3,Mississippi State,Central Florida,1,1,1,1,1,1
+711,Meineke Car Care Bowl,12/29/2007,"Charlotte, NC",24,10,Wake Forest,Connecticut,1,1,1,1,1,1
+712,Champs Sports Bowl,12/28/2007,"Orlando, FL",24,21,Boston College (14),Michigan State,1,1,1,1,1,1
+713,Emerald Bowl,12/28/2007,"San Francisco, CA",21,14,Oregon State,Maryland,1,1,1,1,1,1
+714,Texas Bowl,12/28/2007,"Houston, TX",20,13,Texas Christian,Houston,1,1,1,1,1,1
+715,Holiday Bowl,12/27/2007,"San Diego, CA",52,34,Texas (17),Arizona State (12),1,1,1,1,1,1
+716,Motor City Bowl,12/26/2007,"Detroit, MI",51,48,Purdue,Central Michigan,1,1,1,1,1,1
+717,Hawaii Bowl,12/23/2007,"Honolulu, HI",41,38,East Carolina,Boise State (24),1,1,1,1,1,1
+718,Las Vegas Bowl,12/22/2007,"Las Vegas, NV",17,16,Brigham Young (19),UCLA,1,1,1,1,1,1
+719,New Mexico Bowl,12/22/2007,"Albuquerque, NM",23,0,New Mexico,Nevada,1,1,1,1,1,1
+720,PapaJohns.com Bowl,12/22/2007,"Birmingham, AL",31,21,Cincinnati (20),Southern Mississippi,1,1,1,1,1,1
+721,New Orleans Bowl,12/21/2007,"New Orleans, LA",44,27,Florida Atlantic,Memphis,1,1,1,1,1,1
+722,Poinsettia Bowl,12/20/2007,"San Diego, CA",35,32,Utah,Navy,1,1,1,1,1,1
+723,BCS Championship,1/8/2009,"Miami, FL",24,14,Florida (1),Oklahoma (2),1,1,1,1,1,1
+724,GMAC Bowl,1/6/2009,"Mobile, AL",45,13,Tulsa,Ball State (23),1,1,1,1,1,1
+725,Fiesta Bowl,1/5/2009,"Glendale, AZ",24,21,Texas (3),Ohio State (10),1,1,1,1,1,1
+726,International Bowl,1/3/2009,"Toronto, Canada",38,20,Connecticut,Buffalo,1,1,1,1,1,1
+727,Sugar Bowl,1/2/2009,"New Orleans, LA",31,17,Utah (7),Alabama (4),1,1,1,1,1,1
+728,Cotton Bowl,1/2/2009,"Dallas, TX",47,34,Mississippi (20),Texas Tech (8),1,1,1,1,1,1
+729,Liberty Bowl,1/2/2009,"Memphis, TN",25,19,Kentucky,East Carolina,1,1,1,1,1,1
+730,Orange Bowl,1/1/2009,"Miami, FL",20,7,Virginia Tech (21),Cincinnati (12),1,1,1,1,1,1
+731,Rose Bowl,1/1/2009,"Pasadena, CA",38,24,Southern California (5),Penn State (6),1,1,1,1,1,1
+732,Capital One Bowl,1/1/2009,"Orlando, FL",24,12,Georgia (16),Michigan State (19),1,1,1,1,1,1
+733,Gator Bowl,1/1/2009,"Jacksonville, FL",26,21,Nebraska,Clemson,1,1,1,1,1,1
+734,Outback Bowl,1/1/2009,"Tampa, FL",31,10,Iowa,South Carolina,1,1,1,1,1,1
+735,Chick-fil-A Bowl,12/31/2008,"Atlanta, GA",38,3,Louisiana State,Georgia Tech (14),1,1,1,1,1,1
+736,Insight Bowl,12/31/2008,"Glendale, AZ",42,21,Kansas,Minnesota,1,1,1,1,1,1
+737,Music City Bowl,12/31/2008,"Nashville, TN",16,14,Vanderbilt,Boston College,1,1,1,1,1,1
+738,Sun Bowl,12/31/2008,"El Paso, TX",3,0,Oregon State (24),Pittsburgh (18),1,1,1,1,1,1
+739,Armed Forces Bowl,12/31/2008,"Fort Worth, TX",34,28,Houston,Air Force,1,1,1,1,1,1
+740,Holiday Bowl,12/30/2008,"San Diego, CA",42,31,Oregon (15),Oklahoma State (13),1,1,1,1,1,1
+741,Texas Bowl,12/30/2008,"Houston, TX",38,14,Rice,Western Michigan,1,1,1,1,1,1
+742,Humanitarian Bowl,12/30/2008,"Boise, ID",42,35,Maryland,Nevada,1,1,1,1,1,1
+743,Alamo Bowl,12/29/2008,"San Antonio, TX",30,23,Missouri (25),Northwestern (22),1,1,1,1,1,1
+744,PapaJohns.com Bowl,12/29/2008,"Birmingham, AL",29,23,Rutgers,North Carolina State,1,1,1,1,1,1
+745,Independence Bowl,12/28/2008,"Shreveport, LA",17,10,Louisiana Tech,Northern Illinois,1,1,1,1,1,1
+746,Emerald Bowl,12/27/2008,"San Francisco, CA",24,17,California,Miami (FL),1,1,1,1,1,1
+747,Champs Sports Bowl,12/27/2008,"Orlando, FL",42,13,Florida State,Wisconsin,1,1,1,1,1,1
+748,Meineke Car Care Bowl,12/27/2008,"Charlotte, NC",31,30,West Virginia,North Carolina,1,1,1,1,1,1
+749,Motor City Bowl,12/26/2008,"Detroit, MI",24,21,Florida Atlantic,Central Michigan,1,1,1,1,1,1
+750,Hawaii Bowl,12/24/2008,"Honolulu, HI",49,21,Notre Dame,Hawaii,1,1,1,1,1,1
+751,Poinsettia Bowl,12/23/2008,"San Diego, CA",17,16,Texas Christian (11),Boise State (9),1,1,1,1,1,1
+752,New Orleans Bowl,12/21/2008,"New Orleans, LA",30,27,Southern Mississippi,Troy,1,1,1,1,1,1
+753,Las Vegas Bowl,12/20/2008,"Las Vegas, NV",31,21,Arizona,Brigham Young (17),1,1,1,1,1,1
+754,St. Petersburg Bowl,12/20/2008,"St. Petersburg, FL",41,14,South Florida,Memphis,1,1,1,1,1,1
+755,New Mexico Bowl,12/20/2008,"Albuquerque, NM",40,35,Colorado State,Fresno State,1,1,1,1,1,1
+756,EagleBank Bowl,12/20/2008,"Washington, DC",29,19,Wake Forest,Navy,1,1,1,1,1,1
+757,BCS Championship,1/7/2010,"Pasadena, CA",37,21,Alabama (1),Texas (2),1,1,1,1,1,1
+758,GMAC Bowl,1/6/2010,"Mobile, AL",44,41,Central Michigan (25),Troy,1,1,1,1,1,1
+759,Orange Bowl,1/5/2010,"Miami, FL",24,14,Iowa (10),Georgia Tech (9),1,1,1,1,1,1
+760,Fiesta Bowl,1/4/2010,"Glendale, AZ",17,10,Boise State (6),Texas Christian (3),1,1,1,1,1,1
+761,Alamo Bowl,1/2/2010,"San Antonio, TX",41,31,Texas Tech,Michigan State,1,1,1,1,1,1
+762,Cotton Bowl,1/2/2010,"Arlington, TX",21,7,Mississippi,Oklahoma State (21),1,1,1,1,1,1
+763,International Bowl,1/2/2010,"Toronto, Canada",27,3,South Florida,Northern Illinois,1,1,1,1,1,1
+764,Liberty Bowl,1/2/2010,"Memphis, TN",20,17,Arkansas,East Carolina,1,1,1,1,1,1
+765,PapaJohns.com Bowl,1/2/2010,"Birmingham, AL",20,7,Connecticut,South Carolina,1,1,1,1,1,1
+766,Outback Bowl,1/1/2010,"Tampa, FL",38,35,Auburn,Northwestern,1,1,1,1,1,1
+767,Capital One Bowl,1/1/2010,"Orlando, FL",19,17,Penn State (11),Louisiana State (13),1,1,1,1,1,1
+768,Gator Bowl,1/1/2010,"Jacksonville, FL",33,21,Florida State,West Virginia (18),1,1,1,1,1,1
+769,Rose Bowl,1/1/2010,"Pasadena, CA",26,17,Ohio State (8),Oregon (7),1,1,1,1,1,1
+770,Sugar Bowl,1/1/2010,"New Orleans, LA",51,24,Florida (5),Cincinnati (4),1,1,1,1,1,1
+771,Texas Bowl,12/31/2009,"Houston, TX",35,13,Navy,Missouri,1,1,1,1,1,1
+772,Sun Bowl,12/31/2009,"El Paso, TX",31,27,Oklahoma,Stanford (19),1,1,1,1,1,1
+773,Armed Forces Bowl,12/31/2009,"Fort Worth, TX",47,20,Air Force,Houston,1,1,1,1,1,1
+774,Chick-fil-A Bowl,12/31/2009,"Atlanta, GA",37,14,Virginia Tech (12),Tennessee,1,1,1,1,1,1
+775,Insight Bowl,12/31/2009,"Tempe, AZ",14,13,Iowa State,Minnesota,1,1,1,1,1,1
+776,Holiday Bowl,12/30/2009,"San Diego, CA",33,0,Nebraska (20),Arizona (22),1,1,1,1,1,1
+777,Humanitarian Bowl,12/30/2009,"Boise, ID",43,42,Idaho,Bowling Green State,1,1,1,1,1,1
+778,Champs Sports Bowl,12/29/2009,"Orlando, FL",20,14,Wisconsin (24),Miami (FL) (14),1,1,1,1,1,1
+779,EagleBank Bowl,12/29/2009,"Washington, DC",30,21,UCLA,Temple,1,1,1,1,1,1
+780,Independence Bowl,12/28/2009,"Shreveport, LA",44,20,Georgia,Texas A&M,1,1,1,1,1,1
+781,Music City Bowl,12/27/2009,"Nashville, TN",21,13,Clemson,Kentucky,1,1,1,1,1,1
+782,Little Caesars Bowl,12/26/2009,"Detroit, MI",21,17,Marshall,Ohio,1,1,1,1,1,1
+783,Emerald Bowl,12/26/2009,"San Francisco, CA",24,13,Southern California,Boston College,1,1,1,1,1,1
+784,Meineke Car Care Bowl,12/26/2009,"Charlotte, NC",19,17,Pittsburgh (17),North Carolina,1,1,1,1,1,1
+785,Hawaii Bowl,12/24/2009,"Honolulu, HI",45,10,Southern Methodist,Nevada,1,1,1,1,1,1
+786,Poinsettia Bowl,12/23/2009,"San Diego, CA",37,27,Utah (23),California,1,1,1,1,1,1
+787,Las Vegas Bowl,12/22/2009,"Las Vegas, NV",44,20,Brigham Young (15),Oregon State (16),1,1,1,1,1,1
+788,New Orleans Bowl,12/20/2009,"New Orleans, LA",42,32,Middle Tennessee State,Southern Mississippi,1,1,1,1,1,1
+789,New Mexico Bowl,12/19/2009,"Albuquerque, NM",35,28,Wyoming,Fresno State,1,1,1,1,1,1
+790,St. Petersburg Bowl,12/19/2009,"St. Petersburg, FL",45,24,Rutgers,Central Florida,1,1,1,1,1,1
+791,BCS Championship,1/10/2011,"Glendale, AZ",22,19,Auburn (1),Oregon (2),1,1,1,1,1,1
+792,Fight Hunger Bowl,1/9/2011,"San Francisco, CA",20,13,Nevada (13),Boston College,1,1,1,1,1,1
+793,BBVA Compass Bowl,1/8/2011,"Birmingham, AL",27,10,Pittsburgh,Kentucky,1,1,1,1,1,1
+794,Cotton Bowl,1/7/2011,"Arlington, TX",41,24,Louisiana State (11),Texas A&M (18),1,1,1,1,1,1
+795,GoDaddy.com Bowl,1/6/2011,"Mobile, AL",35,21,Miami (OH),Middle Tennessee State,1,1,1,1,1,1
+796,Sugar Bowl,1/4/2011,"New Orleans, LA",31,26,Ohio State (6),Arkansas (8),1,1,1,1,1,1
+797,Orange Bowl,1/3/2011,"Miami, FL",40,12,Stanford (5),Virginia Tech (12),1,1,1,1,1,1
+798,Capital One Bowl,1/1/2011,"Orlando, FL",49,7,Alabama (15),Michigan State (7),1,1,1,1,1,1
+799,Outback Bowl,1/1/2011,"Tampa, FL",37,24,Florida,Penn State,1,1,1,1,1,1
+800,Fiesta Bowl,1/1/2011,"Glendale, AZ",48,20,Oklahoma (9),Connecticut (25),1,1,1,1,1,1
+801,Gator Bowl,1/1/2011,"Jacksonville, FL",52,14,Mississippi State (21),Michigan,1,1,1,1,1,1
+802,Rose Bowl,1/1/2011,"Pasadena, CA",21,19,Texas Christian (3),Wisconsin (4),1,1,1,1,1,1
+803,Ticket City Bowl,1/1/2011,"Dallas, TX",45,38,Texas Tech,Northwestern,1,1,1,1,1,1
+804,Sun Bowl,12/31/2010,"El Paso, TX",33,17,Notre Dame,Miami (FL),1,1,1,1,1,1
+805,Meineke Car Care Bowl,12/31/2010,"Charlotte, NC",31,26,South Florida,Clemson,1,1,1,1,1,1
+806,Chick-fil-A Bowl,12/31/2010,"Atlanta, GA",26,17,Florida State (23),South Carolina (19),1,1,1,1,1,1
+807,Liberty Bowl,12/31/2010,"Memphis, TN",10,6,Central Florida,Georgia,1,1,1,1,1,1
+808,Holiday Bowl,12/30/2010,"San Diego, CA",19,7,Washington,Nebraska (17),1,1,1,1,1,1
+809,Armed Forces Bowl,12/30/2010,"Fort Worth, TX",16,14,Army,Southern Methodist,1,1,1,1,1,1
+810,Music City Bowl,12/30/2010,"Nashville, TN",30,27,North Carolina,Tennessee,1,1,1,1,1,1
+811,Pinstripe Bowl,12/30/2010,"Bronx, NY",36,34,Syracuse,Kansas State,1,1,1,1,1,1
+812,Texas Bowl,12/29/2010,"Houston, TX",38,14,Illinois,Baylor,1,1,1,1,1,1
+813,Military Bowl,12/29/2010,"Washington, DC",51,20,Maryland,East Carolina,1,1,1,1,1,1
+814,Alamo Bowl,12/29/2010,"San Antonio, TX",36,10,Oklahoma State (16),Arizona,1,1,1,1,1,1
+815,Insight Bowl,12/28/2010,"Tempe, AZ",27,24,Iowa,Missouri (14),1,1,1,1,1,1
+816,Champs Sports Bowl,12/28/2010,"Orlando, FL",23,7,North Carolina State,West Virginia (22),1,1,1,1,1,1
+817,Independence Bowl,12/27/2010,"Shreveport, LA",14,7,Air Force,Georgia Tech,1,1,1,1,1,1
+818,Little Caesars Bowl,12/26/2010,"Detroit, MI",34,32,Florida International,Toledo,1,1,1,1,1,1
+819,Hawaii Bowl,12/24/2010,"Honolulu, HI",62,35,Tulsa,Hawaii (24),1,1,1,1,1,1
+820,Poinsettia Bowl,12/23/2010,"San Diego, CA",35,14,San Diego State,Navy,1,1,1,1,1,1
+821,Maaco Bowl,12/22/2010,"Las Vegas, NV",26,3,Boise State (10),Utah (20),1,1,1,1,1,1
+822,Beef O'Brady's Bowl,12/21/2010,"St. Petersburg, FL",31,28,Louisville,Southern Mississippi,1,1,1,1,1,1
+823,Humanitarian Bowl,12/18/2010,"Boise, ID",40,17,Northern Illinois,Fresno State,1,1,1,1,1,1
+824,New Mexico Bowl,12/18/2010,"Albuquerque, NM",52,24,Brigham Young,Texas-El Paso,1,1,1,1,1,1
+825,New Orleans Bowl,12/18/2010,"New Orleans, LA",48,21,Troy,Ohio,1,1,1,1,1,1
+826,BCS Championship,1/9/2012,"New Orleans, LA",21,0,Alabama (2),Louisiana State (1),1,1,1,1,1,1
+827,GoDaddy.com Bowl,1/8/2012,"Mobile, AL",38,20,Northern Illinois,Arkansas State,1,1,1,1,1,1
+828,BBVA Compass Bowl,1/7/2012,"Birmingham, AL",28,6,Southern Methodist,Pittsburgh,1,1,1,1,1,1
+829,Cotton Bowl,1/6/2012,"Arlington, TX",29,16,Arkansas (7),Kansas State (11),1,1,1,1,1,1
+830,Orange Bowl,1/4/2012,"Miami, FL",70,33,West Virginia (23),Clemson (14),1,1,1,1,1,1
+831,Sugar Bowl,1/3/2012,"New Orleans, LA",23,20,Michigan (13),Virginia Tech (17),1,1,1,1,1,1
+832,Fiesta Bowl,1/2/2012,"Glendale, AZ",41,38,Oklahoma State (3),Stanford (4),1,1,1,1,1,1
+833,Rose Bowl,1/2/2012,"Pasadena, CA",45,38,Oregon (6),Wisconsin (9),1,1,1,1,1,1
+834,Outback Bowl,1/2/2012,"Tampa, FL",33,30,Michigan State (12),Georgia (18),1,1,1,1,1,1
+835,Ticket City Bowl,1/2/2012,"Dallas, TX",30,14,Houston (20),Penn State (24),1,1,1,1,1,1
+836,Capital One Bowl,1/2/2012,"Orlando, FL",30,13,South Carolina (10),Nebraska (21),1,1,1,1,1,1
+837,Gator Bowl,1/2/2012,"Jacksonville, FL",24,17,Florida,Ohio State,1,1,1,1,1,1
+838,Chick-fil-A Bowl,12/31/2011,"Atlanta, GA",43,24,Auburn,Virginia,1,1,1,1,1,1
+839,Fight Hunger Bowl,12/31/2011,"San Francisco, CA",20,14,Illinois,UCLA,1,1,1,1,1,1
+840,Sun Bowl,12/31/2011,"El Paso, TX",30,27,Utah,Georgia Tech,1,1,1,1,1,1
+841,Meineke Car Care Bowl of Texas,12/31/2011,"Houston, TX",33,22,Texas A&M,Northwestern,1,1,1,1,1,1
+842,Liberty Bowl,12/31/2011,"Memphis, TN",31,24,Cincinnati,Vanderbilt,1,1,1,1,1,1
+843,Music City Bowl,12/30/2011,"Nashville, TN",23,17,Mississippi State,Wake Forest,1,1,1,1,1,1
+844,Pinstripe Bowl,12/30/2011,"Bronx, NY",27,13,Rutgers,Iowa State,1,1,1,1,1,1
+845,Armed Forces Bowl,12/30/2011,"Dallas, TX",24,21,Brigham Young,Tulsa,1,1,1,1,1,1
+846,Insight Bowl,12/30/2011,"Tempe, AZ",31,14,Oklahoma (19),Iowa,1,1,1,1,1,1
+847,Alamo Bowl,12/29/2011,"San Antonio, TX",67,56,Baylor (15),Washington,1,1,1,1,1,1
+848,Champs Sports Bowl,12/29/2011,"Orlando, FL",18,14,Florida State (25),Notre Dame,1,1,1,1,1,1
+849,Military Bowl,12/28/2011,"Washington, DC",42,41,Toledo,Air Force,1,1,1,1,1,1
+850,Holiday Bowl,12/28/2011,"San Diego, CA",21,10,Texas,California,1,1,1,1,1,1
+851,Little Caesars Bowl,12/27/2011,"Detroit, MI",37,32,Purdue,Western Michigan,1,1,1,1,1,1
+852,Belk Bowl,12/27/2011,"Charlotte, NC",31,24,North Carolina State,Louisville,1,1,1,1,1,1
+853,Independence Bowl,12/26/2011,"Shreveport, LA",41,24,Missouri,North Carolina,1,1,1,1,1,1
+854,Hawaii Bowl,12/24/2011,"Honolulu, HI",24,17,Southern Mississippi (22),Nevada,1,1,1,1,1,1
+855,Maaco Bowl,12/22/2011,"Las Vegas, NV",56,24,Boise State (8),Arizona State,1,1,1,1,1,1
+856,Poinsettia Bowl,12/21/2011,"San Diego, CA",31,24,Texas Christian (16),Louisiana Tech,1,1,1,1,1,1
+857,Beef O'Brady's Bowl,12/20/2011,"St. Petersburg, FL",20,10,Marshall,Florida International,1,1,1,1,1,1
+858,Famous Idaho Potato Bowl,12/17/2011,"Boise, ID",24,23,Ohio,Utah State,1,1,1,1,1,1
+859,New Mexico Bowl,12/17/2011,"Albuquerque, NM",37,15,Temple,Wyoming,1,1,1,1,1,1
+860,New Orleans Bowl,12/17/2011,"New Orleans, LA",32,30,Louisiana,San Diego State,1,1,1,1,1,1
+861,BCS Championship,1/7/2013,"Miami, FL",42,14,Alabama (2),Notre Dame (1),1,1,1,1,1,1
+862,GoDaddy.com Bowl,1/6/2013,"Mobile, AL",17,13,Arkansas State,Kent State (25),1,1,1,1,1,1
+863,BBVA Compass Bowl,1/5/2013,"Birmingham, AL",38,17,Mississippi,Pittsburgh,1,1,1,1,1,1
+864,Cotton Bowl,1/4/2013,"Arlington, TX",41,13,Texas A&M (10),Oklahoma (12),1,1,1,1,1,1
+865,Fiesta Bowl,1/3/2013,"Glendale, AZ",35,17,Oregon (5),Kansas State (7),1,1,1,1,1,1
+866,Sugar Bowl,1/2/2013,"New Orleans, LA",33,23,Louisville (22),Florida (4),1,1,1,1,1,1
+867,Capital One Bowl,1/1/2013,"Orlando, FL",45,31,Georgia (6),Nebraska (23),1,1,1,1,1,1
+868,Gator Bowl,1/1/2013,"Jacksonville, FL",34,20,Northwestern (21),Mississippi State,1,1,1,1,1,1
+869,Heart of Dallas Bowl,1/1/2013,"Dallas, TX",58,14,Oklahoma State,Purdue,1,1,1,1,1,1
+870,Orange Bowl,1/1/2013,"Miami, FL",31,10,Florida State (13),Northern Illinois (16),1,1,1,1,1,1
+871,Outback Bowl,1/1/2013,"Tampa, FL",33,28,South Carolina (11),Michigan (19),1,1,1,1,1,1
+872,Rose Bowl,1/1/2013,"Pasadena, CA",20,14,Stanford (8),Wisconsin,1,1,1,1,1,1
+873,Chick-fil-A Bowl,12/31/2012,"Atlanta, GA",25,24,Clemson (14),Louisiana State (9),1,1,1,1,1,1
+874,Liberty Bowl,12/31/2012,"Memphis, TN",31,17,Tulsa,Iowa State,1,1,1,1,1,1
+875,Music City Bowl,12/31/2012,"Nashville, TN",38,24,Vanderbilt,North Carolina State,1,1,1,1,1,1
+876,Sun Bowl,12/31/2012,"El Paso, TX",21,7,Georgia Tech,Southern California,1,1,1,1,1,1
+877,Alamo Bowl,12/29/2012,"San Antonio, TX",31,27,Texas,Oregon State (15),1,1,1,1,1,1
+878,Armed Forces Bowl,12/29/2012,"Fort Worth, TX",33,14,Rice,Air Force,1,1,1,1,1,1
+879,Buffalo Wild Wings Bowl,12/29/2012,"Phoenix, AZ",17,16,Michigan State,Texas Christian,1,1,1,1,1,1
+880,Fight Hunger Bowl,12/29/2012,"San Francisco, CA",62,28,Arizona State,Navy,1,1,1,1,1,1
+881,Pinstripe Bowl,12/29/2012,"New York, NY",38,14,Syracuse,West Virginia,1,1,1,1,1,1
+882,Independence Bowl,12/28/2012,"Shreveport, LA",45,14,Ohio,Louisiana-Monroe,1,1,1,1,1,1
+883,Meineke Car Care Bowl of Texas,12/28/2012,"Houston, TX",34,31,Texas Tech,Minnesota,1,1,1,1,1,1
+884,Russell Athletic Bowl,12/28/2012,"Orlando, FL",13,10,Virginia Tech,Rutgers,1,1,1,1,1,1
+885,Belk Bowl,12/27/2012,"Charlotte, NC",48,34,Cincinnati,Duke,1,1,1,1,1,1
+886,Holiday Bowl,12/27/2012,"San Diego, CA",49,26,Baylor,UCLA (17),1,1,1,1,1,1
+887,Military Bowl,12/27/2012,"Washington, DC",29,20,San Jose State (24),Bowling Green State,1,1,1,1,1,1
+888,Little Caesars Bowl,12/26/2012,"Detroit, MI",24,21,Central Michigan,Western Kentucky,1,1,1,1,1,1
+889,Hawaii Bowl,12/24/2012,"Honolulu, HI",43,10,Southern Methodist,Fresno State,1,1,1,1,1,1
+890,Las Vegas Bowl,12/22/2012,"Las Vegas, NV",28,26,Boise State (20),Washington,1,1,1,1,1,1
+891,New Orleans Bowl,12/22/2012,"New Orleans, LA",43,34,Louisiana,East Carolina,1,1,1,1,1,1
+892,Beef O'Brady's Bowl,12/21/2012,"St. Petersburg, FL",38,17,Central Florida,Ball State,1,1,1,1,1,1
+893,Poinsettia Bowl,12/20/2012,"San Diego, CA",23,6,Brigham Young,San Diego State,1,1,1,1,1,1
+894,Famous Idaho Potato Bowl,12/15/2012,"Boise, ID",41,15,Utah State (18),Toledo,1,1,1,1,1,1
+895,New Mexico Bowl,12/15/2012,"Albuquerque, NM",49,48,Arizona,Nevada,1,1,1,1,1,1
+896,BCS Championship,1/6/2014,"Pasadena, CA",34,31,Florida State (1),Auburn (2),1,1,1,1,1,1
+897,GoDaddy.com Bowl,1/5/2014,"Mobile, AL",23,20,Arkansas State,Ball State,1,1,1,1,1,1
+898,BBVA Compass Bowl,1/4/2014,"Birmingham, AL",41,24,Vanderbilt,Houston,1,1,1,1,1,1
+899,Orange Bowl,1/3/2014,"Miami Gardens, FL",40,35,Clemson (12),Ohio State (7),1,1,1,1,1,1
+900,Cotton Bowl,1/3/2014,"Arlington, TX",41,31,Missouri (9),Oklahoma State (13),1,1,1,1,1,1
+901,Sugar Bowl,1/2/2014,"New Orleans, LA",45,31,Oklahoma (11),Alabama (3),1,1,1,1,1,1
+902,Fiesta Bowl,1/1/2014,"Glendale, AZ",52,42,Central Florida (15),Baylor (6),1,1,1,1,1,1
+903,Rose Bowl,1/1/2014,"Pasadena, CA",24,20,Michigan State (4),Stanford (5),1,1,1,1,1,1
+904,Capital One Bowl,1/1/2014,"Orlando, FL",34,24,South Carolina (8),Wisconsin (19),1,1,1,1,1,1
+905,Outback Bowl,1/1/2014,"Tampa, FL",21,14,Louisiana State (14),Iowa,1,1,1,1,1,1
+906,Gator Bowl,1/1/2014,"Jacksonville, FL",24,19,Nebraska,Georgia (23),1,1,1,1,1,1
+907,Heart of Dallas Bowl,1/1/2014,"Dallas, TX",36,14,North Texas,Nevada-Las Vegas,1,1,1,1,1,1
+908,Chick-fil-A Bowl,12/31/2013,"Atlanta, GA",52,48,Texas A&M (20),Duke (22),1,1,1,1,1,1
+909,Liberty Bowl,12/31/2013,"Memphis, TN",44,7,Mississippi State,Rice,1,1,1,1,1,1
+910,Sun Bowl,12/31/2013,"El Paso, TX",42,12,UCLA (17),Virginia Tech,1,1,1,1,1,1
+911,Independence Bowl,12/31/2013,"Shreveport, LA",42,19,Arizona,Boston College,1,1,1,1,1,1
+912,Holiday Bowl,12/30/2013,"San Diego, CA",37,23,Texas Tech,Arizona State (16),1,1,1,1,1,1
+913,Alamo Bowl,12/30/2013,"San Antonio, TX",30,7,Oregon (10),Texas,1,1,1,1,1,1
+914,Music City Bowl,12/30/2013,"Nashville, TN",25,17,Mississippi,Georgia Tech,1,1,1,1,1,1
+915,Armed Forces Bowl,12/30/2013,"Fort Worth, TX",24,6,Navy,Middle Tennessee State,1,1,1,1,1,1
+916,Buffalo Wild Wings Bowl,12/28/2013,"Tempe, AZ",31,14,Kansas State,Michigan,1,1,1,1,1,1
+917,Russell Athletic Bowl,12/28/2013,"Orlando, FL",36,9,Louisville (18),Miami (FL),1,1,1,1,1,1
+918,Belk Bowl,12/28/2013,"Charlotte, NC",39,17,North Carolina,Cincinnati,1,1,1,1,1,1
+919,Pinstripe Bowl,12/28/2013,"Bronx, NY",29,16,Notre Dame (25),Rutgers,1,1,1,1,1,1
+920,Fight Hunger Bowl,12/27/2013,"San Francisco, CA",31,16,Washington,Brigham Young,1,1,1,1,1,1
+921,Texas Bowl,12/27/2013,"Houston, TX",21,17,Syracuse,Minnesota,1,1,1,1,1,1
+922,Military Bowl,12/27/2013,"Annapolis, MD",31,20,Marshall,Maryland,1,1,1,1,1,1
+923,Poinsettia Bowl,12/26/2013,"San Diego, CA",21,14,Utah State,Northern Illinois (24),1,1,1,1,1,1
+924,Little Caesars Bowl,12/26/2013,"Detroit, MI",30,27,Pittsburgh,Bowling Green State,1,1,1,1,1,1
+925,Hawaii Bowl,12/24/2013,"Honolulu, HI",38,23,Oregon State,Boise State,1,1,1,1,1,1
+926,Beef O'Brady's Bowl,12/23/2013,"St. Petersburg, FL",37,20,East Carolina,Ohio,1,1,1,1,1,1
+927,New Orleans Bowl,12/21/2013,"New Orleans, LA",24,21,Louisiana,Tulane,1,1,1,1,1,1
+928,Famous Idaho Potato Bowl,12/21/2013,"Boise, ID",49,24,San Diego State,Buffalo,1,1,1,1,1,1
+929,Las Vegas Bowl,12/21/2013,"Las Vegas, NV",45,20,Southern California,Fresno State (21),1,1,1,1,1,1
+930,New Mexico Bowl,12/21/2013,"Albuquerque, NM",48,45,Colorado State,Washington State,1,1,1,1,1,1
+931,College Football Championship,1/12/2015,"Arlington, TX",42,20,Ohio State,Oregon,1,1,1,1,1,1
+932,GoDaddy Bowl,1/4/2015,"Mobile, AL",63,44,Toledo,Arkansas State,1,1,1,1,1,1
+933,Birmingham Bowl,1/3/2015,"Birmingham, AL",28,20,Florida,East Carolina,1,1,1,1,1,1
+934,Cactus Bowl,1/2/2015,"Tempe, AZ",30,22,Oklahoma State,Washington,1,1,1,1,1,1
+935,Alamo Bowl,1/2/2015,"San Antonio, TX",40,35,UCLA,Kansas State,1,1,1,1,1,1
+936,TaxSlayer Bowl,1/2/2015,"Jacksonville, FL",45,28,Tennessee,Iowa,1,1,1,1,1,1
+937,Armed Forces Bowl,1/2/2015,"Fort Worth, TX",35,34,Houston,Pittsburgh,1,1,1,1,1,1
+938,Sugar Bowl,1/1/2015,"New Orleans, LA",42,35,Ohio State,Alabama,1,1,1,1,1,1
+939,Rose Bowl,1/1/2015,"Pasadena, CA",59,20,Oregon,Florida State,1,1,1,1,1,1
+940,Citrus Bowl,1/1/2015,"Orlando, FL",33,17,Missouri,Minnesota,1,1,1,1,1,1
+941,Cotton Bowl,1/1/2015,"Arlington, TX",42,41,Michigan State,Baylor,1,1,1,1,1,1
+942,Outback Bowl,1/1/2015,"Tampa, FL",34,31,Wisconsin,Auburn,1,1,1,1,1,1
+943,Orange Bowl,12/31/2014,"Miami Gardens, FL",49,34,Georgia Tech,Mississippi State,1,1,1,1,1,1
+944,Fiesta Bowl,12/31/2014,"Glendale, AZ",38,30,Boise State,Arizona,1,1,1,1,1,1
+945,Peach Bowl,12/31/2014,"Atlanta, GA",42,3,Texas Christian,Mississippi,1,1,1,1,1,1
+946,Foster Farms Bowl,12/30/2014,"Santa Clara, CA",45,21,Stanford,Maryland,1,1,1,1,1,1
+947,Belk Bowl,12/30/2014,"Charlotte, NC",37,14,Georgia,Louisville,1,1,1,1,1,1
+948,Music City Bowl,12/30/2014,"Nashville, TN",31,28,Notre Dame,Louisiana State,1,1,1,1,1,1
+949,Texas Bowl,12/29/2014,"Houston, TX",31,7,Arkansas,Texas,1,1,1,1,1,1
+950,Russell Athletic Bowl,12/29/2014,"Orlando, FL",40,6,Clemson,Oklahoma,1,1,1,1,1,1
+951,Liberty Bowl,12/29/2014,"Memphis, TN",45,37,Texas A&M,West Virginia,1,1,1,1,1,1
+952,Holiday Bowl,12/27/2014,"San Diego, CA",45,42,Southern California,Nebraska,1,1,1,1,1,1
+953,Pinstripe Bowl,12/27/2014,"Bronx, New York",31,30,Penn State,Boston College,1,1,1,1,1,1
+954,Independence Bowl,12/27/2014,"Shreveport, LA",24,21,South Carolina,Miami (FL),1,1,1,1,1,1
+955,Sun Bowl,12/27/2014,"El Paso, TX",36,31,Arizona State,Duke,1,1,1,1,1,1
+956,Military Bowl,12/27/2014,"Annapolis, MD",33,17,Virginia Tech,Cincinnati,1,1,1,1,1,1
+957,St. Petersburg Bowl,12/26/2014,"St. Petersburg, FL",34,27,North Carolina State,Central Florida,1,1,1,1,1,1
+958,Quick Lane Bowl,12/26/2014,"Detroit, MI",40,21,Rutgers,North Carolina,1,1,1,1,1,1
+959,Heart of Dallas Bowl,12/26/2014,"Dallas, TX",35,18,Louisiana Tech,Illinois,1,1,1,1,1,1
+960,Hawaii Bowl,12/24/2014,"Honolulu, HI",30,6,Rice,Fresno State,1,1,1,1,1,1
+961,Bahamas Bowl,12/24/2014,"Nassau, Bahamas",49,48,Western Kentucky,Central Michigan,1,1,1,1,1,1
+962,Poinsettia Bowl,12/23/2014,"San Diego, CA",17,16,Navy,San Diego State,1,1,1,1,1,1
+963,Boca Raton Bowl,12/23/2014,"Boca Raton, FL",52,23,Marshall,Northern Illinois,1,1,1,1,1,1
+964,Miami Beach Bowl,12/22/2014,"Miami, FL",55,48,Memphis,Brigham Young,1,1,1,1,1,1
+965,Camellia Bowl,12/20/2014,"Montgomery, AL",33,28,Bowling Green State,South Alabama,1,1,1,1,1,1
+966,Famous Idaho Potato Bowl,12/20/2014,"Boise, ID",38,24,Air Force,Western Michigan,1,1,1,1,1,1
+967,Las Vegas Bowl,12/20/2014,"Las Vegas, NV",45,10,Utah,Colorado State,1,1,1,1,1,1
+968,New Mexico Bowl,12/20/2014,"Albuquerque, NM",21,6,Utah State,Texas-El Paso,1,1,1,1,1,1
+969,New Orleans Bowl,12/20/2014,"New Orleans, LA",16,3,Louisiana,Nevada,1,1,1,1,1,1
+970,College Football Championship,1/11/2016,"Glendale, AZ",45,40,Alabama (2),Clemson (1),1,1,1,1,1,1
+971,Cactus Bowl,1/2/2016,"Tempe, AZ",43,42,West Virginia,Arizona State,1,1,1,1,1,1
+972,Alamo Bowl,1/2/2016,"San Antonio, TX",47,41,Texas Christian (11),Oregon (15),1,1,1,1,1,1
+973,Liberty Bowl,1/2/2016,"Memphis, TN",45,23,Arkansas,Kansas State,1,1,1,1,1,1
+974,TaxSlayer Bowl,1/2/2016,"Jacksonville, FL",24,17,Georgia,Penn State,1,1,1,1,1,1
+975,Sugar Bowl,1/1/2016,"New Orleans, LA",48,20,Mississippi (16),Oklahoma State (13),1,1,1,1,1,1
+976,Rose Bowl,1/1/2016,"Pasadena, CA",45,16,Stanford (5),Iowa (6),1,1,1,1,1,1
+977,Citrus Bowl,1/1/2016,"Orlando, FL",41,7,Michigan (17),Florida (19),1,1,1,1,1,1
+978,Fiesta Bowl,1/1/2016,"Glendale, AZ",44,28,Ohio State (7),Notre Dame (8),1,1,1,1,1,1
+979,Outback Bowl,1/1/2016,"Tampa, FL",45,6,Tennessee,Northwestern (12),1,1,1,1,1,1
+980,Cotton Bowl,12/31/2015,"Arlington, TX",38,0,Alabama (2),Michigan State (3),1,1,1,1,1,1
+981,Orange Bowl,12/31/2015,"Miami Gardens, FL",37,17,Clemson (1),Oklahoma (4),1,1,1,1,1,1
+982,Peach Bowl,12/31/2015,"Atlanta, GA",38,24,Houston (14),Florida State (9),1,1,1,1,1,1
+983,Holiday Bowl,12/30/2015,"San Diego, CA",23,21,Wisconsin (23),Southern California,1,1,1,1,1,1
+984,Music City Bowl,12/30/2015,"Nashville, TN",27,21,Louisville,Texas A&M,1,1,1,1,1,1
+985,Belk Bowl,12/30/2015,"Charlotte, NC",51,28,Mississippi State,North Carolina State,1,1,1,1,1,1
+986,Birmingham Bowl,12/30/2015,"Birmingham, AL",31,10,Auburn,Memphis,1,1,1,1,1,1
+987,Texas Bowl,12/29/2015,"Houston, TX",56,27,Louisiana State (22),Texas Tech,1,1,1,1,1,1
+988,Arizona Bowl,12/29/2015,"Tuscon, AZ",28,23,Nevada,Colorado State,1,1,1,1,1,1
+989,Russell Athletic Bowl,12/29/2015,"Orlando, FL",49,38,Baylor (18),North Carolina (10),1,1,1,1,1,1
+990,Armed Forces Bowl,12/29/2015,"Fort Worth, TX",55,36,California,Air Force,1,1,1,1,1,1
+991,Quick Lane Bowl,12/28/2015,"Detroit, MI",21,14,Minnesota,Central Michigan,1,1,1,1,1,1
+992,Military Bowl,12/28/2015,"Annapolis, MD",44,28,Navy (21),Pittsburgh,1,1,1,1,1,1
+993,Foster Farms Bowl,12/26/2015,"Santa Clara, CA",37,29,Nebraska,UCLA,1,1,1,1,1,1
+994,Independence Bowl,12/26/2015,"Shreveport, LA",55,52,Virginia Tech,Tulsa,1,1,1,1,1,1
+995,Pinstripe Bowl,12/26/2015,"Bronx, New York",44,41,Duke,Indiana,1,1,1,1,1,1
+996,Heart of Dallas Bowl,12/26/2015,"Dallas, TX",44,31,Washington,Southern Mississippi,1,1,1,1,1,1
+997,Sun Bowl,12/26/2015,"El Paso, TX",20,14,Washington State,Miami (FL),1,1,1,1,1,1
+998,St. Petersburg Bowl,12/26/2015,"St. Petersburg, FL",16,10,Marshall,Connecticut,1,1,1,1,1,1
+999,Hawaii Bowl,12/24/2015,"Honolulu, HI",42,7,San Diego State,Cincinnati,1,1,1,1,1,1
+1000,Bahamas Bowl,12/24/2015,"Nassau, Bahamas",45,31,Western Michigan,Middle Tennessee State,1,1,1,1,1,1
+1001,GoDaddy Bowl,12/23/2015,"Mobile, AL",58,27,Georgia Southern,Bowling Green State,1,1,1,1,1,1
+1002,Poinsettia Bowl,12/23/2015,"San Diego, CA",55,7,Boise State,Northern Illinois,1,1,1,1,1,1
+1003,Boca Raton Bowl,12/22/2015,"Boca Raton, FL",32,17,Toledo,Temple (24),1,1,1,1,1,1
+1004,Famous Idaho Potato Bowl,12/22/2015,"Boise, ID",23,21,Akron,Utah State,1,1,1,1,1,1
+1005,Miami Beach Bowl,12/21/2015,"Miami, FL",45,35,Western Kentucky (25),South Florida,1,1,1,1,1,1
+1006,New Orleans Bowl,12/19/2015,"New Orleans, LA",47,28,Louisiana Tech,Arkansas State,1,1,1,1,1,1
+1007,AutoNation Cure Bowl,12/19/2015,"Orlando, FL",27,16,San Jose State,Georgia State,1,1,1,1,1,1
+1008,Camellia Bowl,12/19/2015,"Montgomery, AL",31,29,Appalachian State,Ohio,1,1,1,1,1,1
+1009,Las Vegas Bowl,12/19/2015,"Las Vegas, NV",35,28,Utah (20),Brigham Young,1,1,1,1,1,1
+1010,New Mexico Bowl,12/19/2015,"Albuquerque, NM",45,37,Arizona,New Mexico,1,1,1,1,1,1
+1011,College Football Championship,1/9/2017,"Raymond James Stadium - Tampa, Florida",35,31,Clemson (3),Alabama (1),1,1,1,1,1,1
+1012,Sugar Bowl,1/2/2017,"Mercedes-Benz Superdome - New Orleans, Louisiana",35,19,Oklahoma (7),Auburn (17),1,1,1,1,1,1
+1013,Rose Bowl,1/2/2017,"Pasadena, CA",52,49,Southern California (9),Penn State (5),1,1,1,1,1,1
+1014,Cotton Bowl,1/2/2017,"AT&T Stadium - Arlington, Texas",24,16,Wisconsin (8),Western Michigan (12),1,1,1,1,1,1
+1015,Outback Bowl,1/2/2017,"Raymond James Stadium - Tampa, Florida",30,3,Florida (20),Iowa (21),1,1,1,1,1,1
+1016,Fiesta Bowl,12/31/2016,"University of Phoenix Stadium - Glendale, Arizona",31,0,Clemson (3),Ohio State (2),1,1,1,1,1,1
+1017,Peach Bowl,12/31/2016,"Georgia Dome - Atlanta, Georgia",24,7,Alabama (1),Washington (4),1,1,1,1,1,1
+1018,Citrus Bowl,12/31/2016,"Camping World Stadium - Orlando, Florida",29,9,Louisiana State (19),Louisville (15),1,1,1,1,1,1
+1019,TaxSlayer Bowl,12/31/2016,"EverBank Field - Jacksonville, Florida",33,18,Georgia Tech,Kentucky,1,1,1,1,1,1
+1020,Orange Bowl,12/30/2016,"Hard Rock Stadium - Miami Gardens, Florida",33,32,Florida State (10),Michigan (6),1,1,1,1,1,1
+1021,Arizona Bowl,12/30/2016,"Arizona Stadium - Tucson, Arizona",45,21,Air Force,South Alabama,1,1,1,1,1,1
+1022,Music City Bowl,12/30/2016,"Nissan Stadium - Nashville, Tennessee",38,24,Tennessee,Nebraska (24),1,1,1,1,1,1
+1023,Sun Bowl,12/30/2016,"Sun Bowl Stadium - El Paso, Texas",25,23,Stanford (16),North Carolina,1,1,1,1,1,1
+1024,Liberty Bowl,12/30/2016,"Liberty Bowl Memorial Stadium - Memphis, Tennessee",31,23,Georgia,Texas Christian,1,1,1,1,1,1
+1025,Alamo Bowl,12/29/2016,"Alamodome - San Antonio, Texas",38,8,Oklahoma State (13),Colorado (11),1,1,1,1,1,1
+1026,Belk Bowl,12/29/2016,"Bank of America Stadium - Charlotte, North Carolina",35,24,Virginia Tech (18),Arkansas,1,1,1,1,1,1
+1027,Birmingham Bowl,12/29/2016,"Legion Field - Birmingham, Alabama",46,39,South Florida (25),South Carolina,1,1,1,1,1,1
+1028,Texas Bowl,12/28/2016,"NRG Stadium - Houston, Texas",33,28,Kansas State,Texas A&M,1,1,1,1,1,1
+1029,Foster Farms Bowl,12/28/2016,"Levi's Stadium - Santa Clara, California",26,24,Utah,Indiana,1,1,1,1,1,1
+1030,Russell Athletic Bowl,12/28/2016,"Camping World Stadium - Orlando, Florida",31,14,Miami (FL),West Virginia (14),1,1,1,1,1,1
+1031,Pinstripe Bowl,12/28/2016,"Yankee Stadium - Bronx, New York",31,24,Northwestern,Pittsburgh (22),1,1,1,1,1,1
+1032,Cactus Bowl,12/27/2016,"Chase Field - Phoenix, Arizona",31,12,Baylor,Boise State,1,1,1,1,1,1
+1033,Holiday Bowl,12/27/2016,"Qualcomm Stadium - San Diego, California",17,12,Minnesota,Washington State,1,1,1,1,1,1
+1034,Military Bowl,12/27/2016,"Navy Marine Corps Memorial Stadium - Annapolis, Maryland",34,26,Wake Forest,Temple (23),1,1,1,1,1,1
+1035,Heart of Dallas Bowl,12/27/2016,"Dallas, TX",38,31,Army,North Texas,1,1,1,1,1,1
+1036,Independence Bowl,12/26/2016,"Independence Stadium - Shreveport, Louisiana",41,17,North Carolina State,Vanderbilt,1,1,1,1,1,1
+1037,Quick Lane Bowl,12/26/2016,"Ford Field - Detroit, Michigan",36,30,Boston College,Maryland,1,1,1,1,1,1
+1038,St. Petersburg Bowl,12/26/2016,"Tropicana Field - St. Petersburg, Florida",17,16,Mississippi State,Miami (OH),1,1,1,1,1,1
+1039,Hawaii Bowl,12/24/2016,"Hawaiian Tel Federal Credit Union Field at Aloha Stadium - Honolulu, Hawaii",52,35,Hawaii,Middle Tennessee State,1,1,1,1,1,1
+1040,Dollar General Bowl,12/23/2016,"Ladd-Peebles Stadium - Mobile, Alabama",28,23,Troy,Ohio,1,1,1,1,1,1
+1041,Armed Forces Bowl,12/23/2016,"Amon G. Carter Stadium - Fort Worth, Texas",48,45,Louisiana Tech,Navy,1,1,1,1,1,1
+1042,Bahamas Bowl,12/23/2016,"Thomas A. Robinson Stadium - Nassau, Bahamas",24,20,Old Dominion,Eastern Michigan,1,1,1,1,1,1
+1043,Famous Idaho Potato Bowl,12/22/2016,"Albertsons Stadium - Boise, Idaho",61,50,Idaho,Colorado State,1,1,1,1,1,1
+1044,Poinsettia Bowl,12/21/2016,"Qualcomm Stadium - San Diego, California",24,21,Brigham Young,Wyoming,1,1,1,1,1,1
+1045,Boca Raton Bowl,12/20/2016,"FAU Football Stadium - Boca Raton, Florida",51,31,Western Kentucky,Memphis,1,1,1,1,1,1
+1046,Miami Beach Bowl,12/19/2016,"Marlins Park - Miami, Florida",55,10,Tulsa,Central Michigan,1,1,1,1,1,1
+1047,New Orleans Bowl,12/17/2016,"Mercedes-Benz Superdome - New Orleans, Louisiana",28,21,Southern Mississippi,Louisiana,1,1,1,1,1,1
+1048,AutoNation Cure Bowl,12/17/2016,"Camping World Stadium - Orlando, Florida",31,13,Arkansas State,Central Florida,1,1,1,1,1,1
+1049,Camellia Bowl,12/17/2016,"Montgomery, AL",31,28,Appalachian State,Toledo,1,1,1,1,1,1
+1050,Las Vegas Bowl,12/17/2016,"Sam Boyd Stadium - Las Vegas, Nevada",34,10,San Diego State,Houston,1,1,1,1,1,1
+1051,New Mexico Bowl,12/17/2016,"University Stadium - Albuquerque, New Mexico",23,20,New Mexico,Texas-San Antonio,1,1,1,1,1,1
+1052,College Football Championship,1/8/2018,"Mercedes-Benz Stadium - Atlanta, Georgia",26,23,Alabama (4),Georgia (3),1,1,1,1,1,1
+1053,Sugar Bowl,1/1/2018,"Mercedes-Benz Superdome - New Orleans, Louisiana",24,6,Alabama (4),Clemson (1),1,1,1,1,1,1
+1054,Rose Bowl,1/1/2018,"Rose Bowl - Pasadena, California",54,48,Georgia (3),Oklahoma (2),1,1,1,1,1,1
+1055,Citrus Bowl,1/1/2018,"Camping World Stadium - Orlando, Florida",21,17,Notre Dame (14),Louisiana State (16),1,1,1,1,1,1
+1056,Peach Bowl,1/1/2018,"Mercedes-Benz Stadium - Atlanta, Georgia",34,27,Central Florida (10),Auburn (7),1,1,1,1,1,1
+1057,Outback Bowl,1/1/2018,"Raymond James Stadium - Tampa, Florida",26,19,South Carolina,Michigan,1,1,1,1,1,1
+1058,Orange Bowl,12/30/2017,"Hard Rock Stadium - Miami Gardens, Florida",34,24,Wisconsin (6),Miami (FL) (11),1,1,1,1,1,1
+1059,Fiesta Bowl,12/30/2017,"University of Phoenix Stadium - Glendale, Arizona",35,28,Penn State (9),Washington (12),1,1,1,1,1,1
+1060,Liberty Bowl,12/30/2017,"Liberty Bowl Memorial Stadium - Memphis, Tennessee",21,20,Iowa State,Memphis (19),1,1,1,1,1,1
+1061,TaxSlayer Bowl,12/30/2017,"EverBank Field - Jacksonville, Florida",31,27,Mississippi State (24),Louisville,1,1,1,1,1,1
+1062,Cotton Bowl,12/29/2017,"AT&T Stadium - Arlington, Texas",24,7,Ohio State (5),Southern California (8),1,1,1,1,1,1
+1063,Arizona Bowl,12/29/2017,"Arizona Stadium - Tucson, Arizona",26,20,New Mexico State,Utah State,1,1,1,1,1,1
+1064,Music City Bowl,12/29/2017,"Nissan Stadium - Nashville, Tennessee",24,23,Northwestern (20),Kentucky,1,1,1,1,1,1
+1065,Sun Bowl,12/29/2017,"Sun Bowl - El Paso, Texas",52,31,North Carolina State,Arizona State,1,1,1,1,1,1
+1066,Belk Bowl,12/29/2017,"Bank of America Stadium - Charlotte, North Carolina",55,52,Wake Forest,Texas A&M,1,1,1,1,1,1
+1067,Alamo Bowl,12/28/2017,"Alamodome - San Antonio, Texas",39,37,Texas Christian (13),Stanford (15),1,1,1,1,1,1
+1068,Holiday Bowl,12/28/2017,"SDCCU Stadium - San Diego, California",42,17,Michigan State (18),Washington State (21),1,1,1,1,1,1
+1069,Camping World Bowl,12/28/2017,"Camping World Stadium - Orlando, Florida",30,21,Oklahoma State (17),Virginia Tech (22),1,1,1,1,1,1
+1070,Military Bowl,12/28/2017,"Navy-Marine Corps Memorial Stadium - Annapolis, Maryland",49,7,Navy,Virginia,1,1,1,1,1,1
+1071,Texas Bowl,12/27/2017,"NRG Stadium - Houston, Texas",33,16,Texas,Missouri,1,1,1,1,1,1
+1072,Foster Farms Bowl,12/27/2017,"Levi's Stadium - Santa Clara, California",38,35,Purdue,Arizona,1,1,1,1,1,1
+1073,Pinstripe Bowl,12/27/2017,"New Yankee Stadium - New York, New York",27,20,Iowa,Boston College,1,1,1,1,1,1
+1074,Independence Bowl,12/27/2017,"Independence Stadium - Shreveport, Louisiana",42,13,Florida State,Southern Mississippi,1,1,1,1,1,1
+1075,Cactus Bowl,12/26/2017,"Chase Field - Phoenix, Arizona",35,17,Kansas State,UCLA,1,1,1,1,1,1
+1076,Quick Lane Bowl,12/26/2017,"Ford Field - Detroit, Michigan",36,14,Duke,Northern Illinois,1,1,1,1,1,1
+1077,Heart of Dallas Bowl,12/26/2017,"Cotton Bowl - Dallas, Texas",30,14,Utah,West Virginia,1,1,1,1,1,1
+1078,Hawaii Bowl,12/24/2017,"Aloha Stadium - Honolulu, Hawaii",33,27,Fresno State,Houston,1,1,1,1,1,1
+1079,Dollar General Bowl,12/23/2017,"Ladd-Peebles Stadium - Mobile, Alabama",34,0,Appalachian State,Toledo,1,1,1,1,1,1
+1080,Armed Forces Bowl,12/23/2017,"Amon G. Carter Stadium - Fort Worth, Texas",42,35,Army,San Diego State,1,1,1,1,1,1
+1081,Birmingham Bowl,12/23/2017,"Legion Field - Birmingham, Alabama",38,34,South Florida (23),Texas Tech,1,1,1,1,1,1
+1082,Famous Idaho Potato Bowl,12/22/2017,"Albertsons Stadium - Boise, Idaho",37,14,Wyoming,Central Michigan,1,1,1,1,1,1
+1083,Bahamas Bowl,12/22/2017,"Thomas Robinson Stadium - Nassau, BHS",41,6,Ohio,Alabama-Birmingham,1,1,1,1,1,1
+1084,Bad Boy Mowers Gasparilla Bowl,12/21/2017,"Tropicana Field - St. Petersburg, Florida",28,3,Temple,Florida International,1,1,1,1,1,1
+1085,Frisco Bowl,12/20/2017,"Toyota Stadium - Frisco, Texas",51,10,Louisiana Tech,Southern Methodist,1,1,1,1,1,1
+1086,Boca Raton Bowl,12/19/2017,"FAU Football Stadium - Boca Raton, Florida",50,3,Florida Atlantic,Akron,1,1,1,1,1,1
+1087,Camellia Bowl,12/16/2017,"Cramton Bowl - Montgomery, Alabama",35,30,Middle Tennessee State,Arkansas State,1,1,1,1,1,1
+1088,New Mexico Bowl,12/16/2017,"Dreamstyle Stadium - Albuquerque, New Mexico",31,28,Marshall,Colorado State,1,1,1,1,1,1
+1089,Las Vegas Bowl,12/16/2017,"Sam Boyd Stadium - Las Vegas, Nevada",38,28,Boise State (25),Oregon,1,1,1,1,1,1
+1090,AutoNation Cure Bowl,12/16/2017,"Camping World Stadium - Orlando, Florida",27,17,Georgia State,Western Kentucky,1,1,1,1,1,1
+1091,New Orleans Bowl,12/16/2017,"Mercedes-Benz Superdome - New Orleans, Louisiana",50,30,Troy,North Texas,1,1,1,1,1,1
+1092,College Football Championship,1/7/2019,"Levi's Stadium - Santa Clara, California",44,16,Clemson (2),Alabama (1),1,1,1,1,1,1
+1093,Sugar Bowl,1/1/2019,"Mercedes-Benz Superdome - New Orleans, Louisiana",28,21,Texas (14),Georgia (6),1,1,1,1,1,1
+1094,Rose Bowl,1/1/2019,"Rose Bowl - Pasadena, California",28,23,Ohio State (5),Washington (9),1,1,1,1,1,1
+1095,Citrus Bowl,1/1/2019,"Camping World Stadium - Orlando, Florida",27,24,Kentucky (16),Penn State (13),1,1,1,1,1,1
+1096,Fiesta Bowl,1/1/2019,"State Farm Stadium - Glendale, Arizona",40,32,Louisiana State (11),Central Florida (7),1,1,1,1,1,1
+1097,Outback Bowl,1/1/2019,"Raymond James Stadium - Tampa, Florida",27,22,Iowa,Mississippi State (18),1,1,1,1,1,1
+1098,Gator Bowl,12/31/2018,"TIAA Bank Field - Jacksonville, Florida",52,13,Texas A&M (21),North Carolina State,1,1,1,1,1,1
+1099,Holiday Bowl,12/31/2018,"SDCCU Stadium - San Diego, California",31,20,Northwestern,Utah (20),1,1,1,1,1,1
+1100,Liberty Bowl,12/31/2018,"Liberty Bowl Memorial Stadium - Memphis, Tennessee",38,33,Oklahoma State,Missouri (24),1,1,1,1,1,1
+1101,Redbox Bowl,12/31/2018,"Levi's Stadium - Santa Clara, California",7,6,Oregon,Michigan State,1,1,1,1,1,1
+1102,Sun Bowl,12/31/2018,"Sun Bowl - El Paso, Texas",14,13,Stanford,Pittsburgh,1,1,1,1,1,1
+1103,Military Bowl,12/31/2018,"Navy-Marine Corps Memorial Stadium - Annapolis, Maryland",35,31,Cincinnati,Virginia Tech,1,1,1,1,1,1
+1104,Orange Bowl,12/29/2018,"Hard Rock Stadium - Miami Gardens, Florida",45,34,Alabama (1),Oklahoma (4),1,1,1,1,1,1
+1105,Cotton Bowl,12/29/2018,"AT&T Stadium - Arlington, Texas",30,3,Clemson (2),Notre Dame (3),1,1,1,1,1,1
+1106,Arizona Bowl,12/29/2018,"Arizona Stadium - Tucson, Arizona",16,13,Nevada,Arkansas State,1,1,1,1,1,1
+1107,Belk Bowl,12/29/2018,"Bank of America Stadium - Charlotte, North Carolina",28,0,Virginia,South Carolina,1,1,1,1,1,1
+1108,Peach Bowl,12/29/2018,"Mercedes-Benz Stadium - Atlanta, Georgia",41,15,Florida (10),Michigan (8),1,1,1,1,1,1
+1109,Alamo Bowl,12/28/2018,"Alamodome - San Antonio, Texas",28,26,Washington State (12),Iowa State (25),1,1,1,1,1,1
+1110,Camping World Bowl,12/28/2018,"Camping World Stadium - Orlando, Florida",34,18,Syracuse (17),West Virginia (15),1,1,1,1,1,1
+1111,Music City Bowl,12/28/2018,"Nissan Stadium - Nashville, Tennessee",63,14,Auburn,Purdue,1,1,1,1,1,1
+1112,Texas Bowl,12/27/2018,"NRG Stadium - Houston, Texas",45,38,Baylor,Vanderbilt,1,1,1,1,1,1
+1113,Pinstripe Bowl,12/27/2018,"Yankee Stadium - New York, New York",35,3,Wisconsin,Miami (FL),1,1,1,1,1,1
+1114,Independence Bowl,12/27/2018,"Independence Stadium - Shreveport, Louisiana",56,27,Duke,Temple,1,1,1,1,1,1
+1115,Cheez-It Bowl,12/26/2018,"Chase Field - Phoenix, Arizona",10,7,Texas Christian,California,1,1,1,1,1,1
+1116,Quick Lane Bowl,12/26/2018,"Ford Field - Detroit, Michigan",34,10,Minnesota,Georgia Tech,1,1,1,1,1,1
+1117,Hawaii Bowl,12/22/2018,"Aloha Stadium - Honolulu, Hawaii",31,14,Louisiana Tech,Hawaii,1,1,1,1,1,1
+1118,Dollar General Bowl,12/22/2018,"Ladd-Peebles Stadium - Mobile, Alabama",42,32,Troy,Buffalo,1,1,1,1,1,1
+1119,Armed Forces Bowl,12/22/2018,"Amon G. Carter Stadium - Fort Worth, Texas",70,14,Army (22),Houston,1,1,1,1,1,1
+1120,Birmingham Bowl,12/22/2018,"Legion Field - Birmingham, Alabama",37,34,Wake Forest,Memphis,1,1,1,1,1,1
+1121,Famous Idaho Potato Bowl,12/21/2018,"Albertsons Stadium - Boise, Idaho",49,18,Brigham Young,Western Michigan,1,1,1,1,1,1
+1122,Bahamas Bowl,12/21/2018,"Thomas Robinson Stadium - Nassau, BHS",35,32,Florida International,Toledo,1,1,1,1,1,1
+1123,Bad Boy Mowers Gasparilla Bowl,12/20/2018,"Raymond James Stadium - Tampa, Florida",38,20,Marshall,South Florida,1,1,1,1,1,1
+1124,Frisco Bowl,12/19/2018,"Toyota Stadium - Frisco, Texas",27,0,Ohio,San Diego State,1,1,1,1,1,1
+1125,Boca Raton Bowl,12/18/2018,"FAU Football Stadium - Boca Raton, Florida",37,13,Alabama-Birmingham,Northern Illinois,1,1,1,1,1,1
+1126,New Orleans Bowl,12/15/2018,"Mercedes-Benz Superdome - New Orleans, Louisiana",45,13,Appalachian State,Middle Tennessee State,1,1,1,1,1,1
+1127,Camellia Bowl,12/15/2018,"Cramton Bowl - Montgomery, Alabama",23,21,Georgia Southern,Eastern Michigan,1,1,1,1,1,1
+1128,Las Vegas Bowl,12/15/2018,"Sam Boyd Stadium - Las Vegas, Nevada",31,20,Fresno State (19),Arizona State,1,1,1,1,1,1
+1129,New Mexico Bowl,12/15/2018,"Dreamstyle Stadium - Albuquerque, New Mexico",52,13,Utah State,North Texas,1,1,1,1,1,1
+1130,AutoNation Cure Bowl,12/15/2018,"Camping World Stadium - Orlando, Florida",41,24,Tulane,Louisiana,1,1,1,1,1,1
