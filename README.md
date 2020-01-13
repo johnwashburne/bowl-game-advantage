@@ -13,4 +13,4 @@ Next, I placed a request to the Google Maps Places API for each stadium location
 As seen, these results seem to point very little correlation between a team being closer than the other and actually winning the game. However, I thought that an advantage might be more visible if I only examined the bowls where one team was extremely close and the other team was significantly farther, so I filtered out all of the games except those where one team was inside of a 100 mile radius and the other was outside of a 200 mile radius. Surprisingly, the results looked almost identical.\
 ![Graph2](significant.png)\
 \
-
+Although the closer team does win slightly more often, on the surface, location of the bowl does not appear to be a strong indicator of its final result. 
