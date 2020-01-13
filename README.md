@@ -9,6 +9,6 @@ I wanted to obtain a historical basis for whether a university's proximity to a 
 \
 Next, I placed a request to the Google Maps Places API for each stadium location and team name, saving the longitude and latitude data of each to a csv. I then used this data and the geopy python module to calculate the straight line distance between the stadium and each of the competing teams. Finally, the distances and scores were compared to determine the percentage of bowl games that have been won by the team that was geographically closer.
 \
-![Graph1](winner.png)
+![Graph1](winner.png)\
 As seen, these results seem to point to almost no correlation between a team being closer than the other and actually winning the game. However, I thought that an advantage might be more visible if I only examined the bowls where one team was extremely close and the other team was significantly farther. To do this, I filtered out all of the games except those where one team was inside of a 100 mile radius and the other was outside of a 200 mile radius. Surprisingly, the results looked almost identical.\
 ![Graph2](significant.png)
