@@ -5,7 +5,7 @@ import csv
 import pickle
 
 def get_location(query):
-    response = requests.get('https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input={}&inputtype=textquery&fields=name,geometry&key=AIzaSyDW2jyW0oHvmMnobFbSNeTlLMVaYSUVpBw'.format(query))
+    response = requests.get('https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input={}&inputtype=textquery&fields=name,geometry&key=keyhere'.format(query))
     if response.status_code != 200:
         return None
 
